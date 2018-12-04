@@ -1,0 +1,1807 @@
+index,world_rank,university_name,country,year,lat,lon,variable,value
+0,1,Harvard University,United States of America,2011,42.380098,-71.116629,student_staff_ratio,8.9
+1,2,California Institute of Technology,United States of America,2011,34.137658,-118.12526899999999,student_staff_ratio,6.9
+2,3,Massachusetts Institute of Technology,United States of America,2011,42.360091,-71.09416,student_staff_ratio,9.0
+3,4,Stanford University,United States of America,2011,37.427475,-122.169719,student_staff_ratio,7.8
+4,5,Princeton University,United States of America,2011,40.343989,-74.651448,student_staff_ratio,8.4
+5,6,University of Cambridge,United Kingdom,2011,52.204267,0.114908,student_staff_ratio,11.8
+6,6,University of Oxford,United Kingdom,2011,51.756634000000005,-1.254704,student_staff_ratio,11.6
+7,8,"University of California, Berkeley",United States of America,2011,37.871899,-122.25854,student_staff_ratio,16.4
+8,9,Imperial College London,United Kingdom,2011,51.4988,-0.174877,student_staff_ratio,11.7
+9,10,Yale University,United States of America,2011,41.316324,-72.92234300000001,student_staff_ratio,4.4
+10,11,"University of California, Los Angeles",United States of America,2011,34.068921,-118.445181,student_staff_ratio,10.3
+11,12,University of Chicago,United States of America,2011,41.788608,-87.598713,student_staff_ratio,6.9
+12,13,Johns Hopkins University,United States of America,2011,39.329901,-76.620518,student_staff_ratio,3.6
+13,14,Cornell University,United States of America,2011,42.453449,-76.47350300000001,student_staff_ratio,10.2
+14,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2011,47.376313,8.54767,student_staff_ratio,14.7
+15,15,University of Michigan,United States of America,2011,42.278044,-83.738224,student_staff_ratio,9.0
+16,17,University of Toronto,Canada,2011,43.662892,-79.395656,student_staff_ratio,19.5
+17,18,Columbia University,United States of America,2011,40.807536,-73.96257299999999,student_staff_ratio,5.9
+18,19,University of Pennsylvania,United States of America,2011,-75.193214,-75.193214,student_staff_ratio,6.5
+19,20,Carnegie Mellon University,United States of America,2011,40.443466,-79.943457,student_staff_ratio,13.1
+20,21,University of Hong Kong,Hong Kong,2011,22.282999,114.13708500000001,student_staff_ratio,17.6
+21,22,University College London,United Kingdom,2011,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+22,23,University of Washington,United States of America,2011,47.655335,-122.30351999999999,student_staff_ratio,11.8
+23,24,Duke University,United States of America,2011,36.001426,-78.938229,student_staff_ratio,4.8
+24,25,Northwestern University,United States of America,2011,42.056459000000004,-87.675267,student_staff_ratio,13.8
+25,26,University of Tokyo,Japan,2011,35.712677,139.761989,student_staff_ratio,5.7
+26,27,Georgia Institute of Technology,United States of America,2011,33.775618,-84.39628499999999,student_staff_ratio,20.1
+27,28,Pohang University of Science and Technology,South Korea,2011,36.013886,129.323184,student_staff_ratio,10.1
+28,29,"University of California, Santa Barbara",United States of America,2011,34.413963,-119.848947,student_staff_ratio,27.3
+29,30,University of British Columbia,Canada,2011,49.260605,-123.245994,student_staff_ratio,17.6
+30,30,University of North Carolina at Chapel Hill,United States of America,2011,35.904912,-79.046913,student_staff_ratio,7.3
+31,32,"University of California, San Diego",United States of America,2011,32.88006,-117.23401399999999,student_staff_ratio,6.5
+32,33,University of Illinois at Urbana-Champaign,United States of America,2011,40.101952000000004,-88.227161,student_staff_ratio,18.7
+33,34,National University of Singapore,Singapore,2011,1.296643,103.776394,student_staff_ratio,15.5
+34,35,McGill University,Canada,2011,45.504785,-73.577151,student_staff_ratio,13.7
+35,36,University of Melbourne,Australia,2011,-37.796369,144.961174,student_staff_ratio,23.7
+36,37,Peking University,China,2011,39.986913,116.305874,student_staff_ratio,8.3
+37,38,Washington University in St Louis,United States of America,2011,38.648789,-90.310796,student_staff_ratio,5.7
+38,39,École Polytechnique,France,2011,48.714296999999995,2.211292,student_staff_ratio,4.8
+39,40,University of Edinburgh,United Kingdom,2011,55.944516,-3.189241,student_staff_ratio,14.1
+40,41,Hong Kong University of Science and Technology,Hong Kong,2011,22.3364,114.26546599999999,student_staff_ratio,23.8
+41,42,École Normale Supérieure,France,2011,48.842206,2.345169,student_staff_ratio,7.9
+42,43,Australian National University,Australia,2011,-35.2777,149.118527,student_staff_ratio,19.2
+43,43,Karolinska Institute,Sweden,2011,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+44,43,University of Göttingen,Germany,2011,51.540812,9.9374,student_staff_ratio,25.6
+45,43,University of Wisconsin,United States of America,2011,43.076592,-89.412487,student_staff_ratio,
+46,47,Rice University,United States of America,2011,29.717394,-95.401831,student_staff_ratio,9.0
+47,48,École Polytechnique Fédérale de Lausanne,Switzerland,2011,46.519056,6.566758,student_staff_ratio,10.5
+48,49,"University of California, Irvine",United States of America,2011,33.640495,-117.844296,student_staff_ratio,16.1
+49,49,University of Science and Technology of China,China,2011,31.838697999999997,117.26217,student_staff_ratio,7.9
+50,51,Vanderbilt University,United States of America,2011,36.144703,-86.802655,student_staff_ratio,3.6
+51,52,University of Minnesota,United States of America,2011,44.97399,-93.22772900000001,student_staff_ratio,18.0
+52,53,Tufts University,United States of America,2011,42.407484000000004,-71.119023,student_staff_ratio,10.0
+53,54,"University of California, Davis",United States of America,2011,38.538232,-121.76171200000002,student_staff_ratio,13.9
+54,55,Brown University,United States of America,2011,41.826772,-71.402548,student_staff_ratio,10.1
+55,56,University of Massachusetts,United States of America,2011,42.391157,-72.526712,student_staff_ratio,13.0
+56,57,Kyoto University,Japan,2011,35.026244,135.780822,student_staff_ratio,5.6
+57,58,Tsinghua University,China,2011,39.999666999999995,116.326444,student_staff_ratio,13.7
+58,59,Boston University,United States of America,2011,42.3505,-71.105399,student_staff_ratio,8.6
+59,60,New York University,United States of America,2011,40.729513,-73.996461,student_staff_ratio,6.8
+60,61,Emory University,United States of America,2011,33.792519,-84.323999,student_staff_ratio,4.5
+61,61,LMU Munich,Germany,2011,48.150942,11.582443,student_staff_ratio,15.5
+62,63,University of Notre Dame,United States of America,2011,41.705572,-86.235339,student_staff_ratio,13.8
+63,64,University of Pittsburgh,United States of America,2011,40.444353,-79.960835,student_staff_ratio,5.8
+64,65,Case Western Reserve University,United States of America,2011,41.504341,-81.608384,student_staff_ratio,6.4
+65,66,Ohio State University,United States of America,2011,40.01419,-83.030914,student_staff_ratio,13.4
+66,67,University of Colorado Boulder,United States of America,2011,40.007581,-105.265942,student_staff_ratio,16.1
+67,68,University of Bristol,United Kingdom,2011,51.458417,-2.602979,student_staff_ratio,14.0
+68,68,"University of California, Santa Cruz",United States of America,2011,36.991386,-122.060872,student_staff_ratio,22.7
+69,68,Yeshiva University,United States of America,2011,40.85066,-73.929866,student_staff_ratio,5.5
+70,71,University of Sydney,Australia,2011,-33.888584,151.187347,student_staff_ratio,20.2
+71,72,University of Virginia,United States of America,2011,38.033553000000005,-78.507977,student_staff_ratio,10.2
+72,73,University of Adelaide,Australia,2011,-34.920603,138.60622800000002,student_staff_ratio,30.1
+73,73,University of Southern California,United States of America,2011,34.022352000000005,-118.285117,student_staff_ratio,12.9
+74,75,William & Mary,United States of America,2011,37.271674,-76.713378,student_staff_ratio,11.8
+75,76,Trinity College Dublin,Republic of Ireland,2011,53.343793000000005,-6.2545720000000005,student_staff_ratio,18.0
+76,77,King’s College London,United Kingdom,2011,51.511486,-0.115997,student_staff_ratio,11.4
+77,78,Stony Brook University,United States of America,2011,40.912376,-73.123389,student_staff_ratio,10.9
+78,79,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2011,36.369392,127.364025,student_staff_ratio,10.0
+79,79,University of Sussex,United Kingdom,2011,50.867090000000005,-0.08791399999999999,student_staff_ratio,17.4
+80,81,The University of Queensland,Australia,2011,-27.495431,153.01203,student_staff_ratio,32.7
+81,81,University of York,United Kingdom,2011,53.945533,-1.056167,student_staff_ratio,
+82,83,Heidelberg University,Germany,2011,41.114304,-83.16640699999999,student_staff_ratio,24.5
+83,83,University of Utah,United States of America,2011,40.764936999999996,-111.842102,student_staff_ratio,16.9
+84,85,Durham University,United Kingdom,2011,54.764986,-1.578203,student_staff_ratio,15.7
+85,86,London School of Economics and Political Science,United Kingdom,2011,51.514408,-0.117377,student_staff_ratio,
+86,87,University of Manchester,United Kingdom,2011,53.46685,-2.233884,student_staff_ratio,15.3
+87,88,"Royal Holloway, University of London",United Kingdom,2011,51.425672999999996,-0.563063,student_staff_ratio,15.9
+88,89,Lund University,Sweden,2011,55.711948,13.203493,student_staff_ratio,11.5
+89,90,University of Southampton,United Kingdom,2011,50.935742,-1.3966379999999998,student_staff_ratio,13.5
+90,90,University of Zurich,Switzerland,2011,47.374322,8.550981,student_staff_ratio,6.5
+91,90,Wake Forest University,United States of America,2011,36.13525,-80.276342,student_staff_ratio,4.6
+92,93,McMaster University,Canada,2011,43.260878999999996,-79.919225,student_staff_ratio,19.3
+93,94,University College Dublin,Republic of Ireland,2011,53.30534399999999,-6.220654,student_staff_ratio,24.5
+94,95,George Washington University,United States of America,2011,38.899715,-77.048599,student_staff_ratio,12.0
+95,95,University of Arizona,United States of America,2011,32.231885,-110.95010900000001,student_staff_ratio,12.7
+96,95,University of Basel,Switzerland,2011,47.560253,7.5826,student_staff_ratio,17.3
+97,98,"University of Maryland, College Park",United States of America,2011,38.986918,-76.942554,student_staff_ratio,8.4
+98,99,Dartmouth College,United States of America,2011,43.704440999999996,-72.28869300000001,student_staff_ratio,6.6
+99,100,École Normale Supérieure de Lyon,France,2011,45.729834999999994,4.826911,student_staff_ratio,8.0
+100,1,California Institute of Technology,United States of America,2012,34.137658,-118.12526899999999,student_staff_ratio,6.9
+101,2,Harvard University,United States of America,2012,42.380098,-71.116629,student_staff_ratio,8.9
+102,2,Stanford University,United States of America,2012,37.427475,-122.169719,student_staff_ratio,7.8
+103,4,University of Oxford,United Kingdom,2012,51.756634000000005,-1.254704,student_staff_ratio,11.6
+104,5,Princeton University,United States of America,2012,40.343989,-74.651448,student_staff_ratio,8.4
+105,6,University of Cambridge,United Kingdom,2012,52.204267,0.114908,student_staff_ratio,11.8
+106,7,Massachusetts Institute of Technology,United States of America,2012,42.360091,-71.09416,student_staff_ratio,9.0
+107,8,Imperial College London,United Kingdom,2012,51.4988,-0.174877,student_staff_ratio,11.7
+108,9,University of Chicago,United States of America,2012,41.788608,-87.598713,student_staff_ratio,6.9
+109,10,"University of California, Berkeley",United States of America,2012,37.871899,-122.25854,student_staff_ratio,16.4
+110,11,Yale University,United States of America,2012,41.316324,-72.92234300000001,student_staff_ratio,4.4
+111,12,Columbia University,United States of America,2012,40.807536,-73.96257299999999,student_staff_ratio,5.9
+112,13,"University of California, Los Angeles",United States of America,2012,34.068921,-118.445181,student_staff_ratio,10.3
+113,14,Johns Hopkins University,United States of America,2012,39.329901,-76.620518,student_staff_ratio,3.6
+114,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2012,47.376313,8.54767,student_staff_ratio,14.7
+115,16,University of Pennsylvania,United States of America,2012,-75.193214,-75.193214,student_staff_ratio,6.5
+116,17,University College London,United Kingdom,2012,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+117,18,University of Michigan,United States of America,2012,42.278044,-83.738224,student_staff_ratio,9.0
+118,19,University of Toronto,Canada,2012,43.662892,-79.395656,student_staff_ratio,19.5
+119,20,Cornell University,United States of America,2012,42.453449,-76.47350300000001,student_staff_ratio,10.2
+120,21,Carnegie Mellon University,United States of America,2012,40.443466,-79.943457,student_staff_ratio,13.1
+121,22,Duke University,United States of America,2012,36.001426,-78.938229,student_staff_ratio,4.8
+122,22,University of British Columbia,Canada,2012,49.260605,-123.245994,student_staff_ratio,17.6
+123,24,Georgia Institute of Technology,United States of America,2012,33.775618,-84.39628499999999,student_staff_ratio,20.1
+124,25,University of Washington,United States of America,2012,47.655335,-122.30351999999999,student_staff_ratio,11.8
+125,26,Northwestern University,United States of America,2012,42.056459000000004,-87.675267,student_staff_ratio,13.8
+126,27,University of Wisconsin-Madison,United States of America,2012,43.0766,-89.4125,student_staff_ratio,10.8
+127,28,McGill University,Canada,2012,45.504785,-73.577151,student_staff_ratio,13.7
+128,29,University of Texas at Austin,United States of America,2012,30.2849,-97.7341,student_staff_ratio,17.4
+129,30,University of Tokyo,Japan,2012,35.712677,139.761989,student_staff_ratio,5.7
+130,31,University of Illinois at Urbana-Champaign,United States of America,2012,40.101952000000004,-88.227161,student_staff_ratio,18.7
+131,32,Karolinska Institute,Sweden,2012,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+132,33,"University of California, San Diego",United States of America,2012,32.88006,-117.23401399999999,student_staff_ratio,6.5
+133,34,University of Hong Kong,Hong Kong,2012,22.282999,114.13708500000001,student_staff_ratio,17.6
+134,35,"University of California, Santa Barbara",United States of America,2012,34.413963,-119.848947,student_staff_ratio,27.3
+135,36,University of Edinburgh,United Kingdom,2012,55.944516,-3.189241,student_staff_ratio,14.1
+136,37,University of Melbourne,Australia,2012,-37.796369,144.961174,student_staff_ratio,23.7
+137,38,Australian National University,Australia,2012,-35.2777,149.118527,student_staff_ratio,19.2
+138,38,"University of California, Davis",United States of America,2012,38.538232,-121.76171200000002,student_staff_ratio,13.9
+139,40,National University of Singapore,Singapore,2012,1.296643,103.776394,student_staff_ratio,15.5
+140,41,Washington University in St Louis,United States of America,2012,38.648789,-90.310796,student_staff_ratio,5.7
+141,42,University of Minnesota,United States of America,2012,44.97399,-93.22772900000001,student_staff_ratio,18.0
+142,43,University of North Carolina at Chapel Hill,United States of America,2012,35.904912,-79.046913,student_staff_ratio,7.3
+143,44,New York University,United States of America,2012,40.729513,-73.996461,student_staff_ratio,6.8
+144,45,LMU Munich,Germany,2012,48.150942,11.582443,student_staff_ratio,15.5
+145,46,École Polytechnique Fédérale de Lausanne,Switzerland,2012,46.519056,6.566758,student_staff_ratio,10.5
+146,47,London School of Economics and Political Science,United Kingdom,2012,51.514408,-0.117377,student_staff_ratio,
+147,48,University of Manchester,United Kingdom,2012,53.46685,-2.233884,student_staff_ratio,15.3
+148,49,Brown University,United States of America,2012,41.826772,-71.402548,student_staff_ratio,10.1
+149,49,Peking University,China,2012,39.986913,116.305874,student_staff_ratio,8.3
+150,51,Pennsylvania State University,United States of America,2012,40.7982,-77.8599,student_staff_ratio,12.4
+151,52,Kyoto University,Japan,2012,35.026244,135.780822,student_staff_ratio,5.6
+152,53,Pohang University of Science and Technology,South Korea,2012,36.013886,129.323184,student_staff_ratio,10.1
+153,54,Boston University,United States of America,2012,42.3505,-71.105399,student_staff_ratio,8.6
+154,55,University of Southern California,United States of America,2012,34.022352000000005,-118.285117,student_staff_ratio,12.9
+155,56,King’s College London,United Kingdom,2012,51.511486,-0.115997,student_staff_ratio,11.4
+156,57,Ohio State University,United States of America,2012,40.01419,-83.030914,student_staff_ratio,13.4
+157,58,University of Sydney,Australia,2012,-33.888584,151.187347,student_staff_ratio,20.2
+158,59,University of Pittsburgh,United States of America,2012,40.444353,-79.960835,student_staff_ratio,5.8
+159,59,École Normale Supérieure,France,2012,48.842206,2.345169,student_staff_ratio,7.9
+160,61,University of Zurich,Switzerland,2012,47.374322,8.550981,student_staff_ratio,6.5
+161,62,Hong Kong University of Science and Technology,Hong Kong,2012,22.3364,114.26546599999999,student_staff_ratio,23.8
+162,63,École Polytechnique,France,2012,48.714296999999995,2.211292,student_staff_ratio,4.8
+163,64,University of Massachusetts,United States of America,2012,42.391157,-72.526712,student_staff_ratio,13.0
+164,65,McMaster University,Canada,2012,43.260878999999996,-79.919225,student_staff_ratio,19.3
+165,66,University of Bristol,United Kingdom,2012,51.458417,-2.602979,student_staff_ratio,14.0
+166,67,KU Leuven,Belgium,2012,50.878,4.7003,student_staff_ratio,41.9
+167,68,Utrecht University,Netherlands,2012,52.0902,5.1226,student_staff_ratio,15.4
+168,69,University of Göttingen,Germany,2012,51.540812,9.9374,student_staff_ratio,25.6
+169,70,Vanderbilt University,United States of America,2012,36.144703,-86.802655,student_staff_ratio,3.6
+170,71,Tsinghua University,China,2012,39.999666999999995,116.326444,student_staff_ratio,13.7
+171,72,Rice University,United States of America,2012,29.717394,-95.401831,student_staff_ratio,9.0
+172,73,Heidelberg University,Germany,2012,41.114304,-83.16640699999999,student_staff_ratio,24.5
+173,74,The University of Queensland,Australia,2012,-27.495431,153.01203,student_staff_ratio,32.7
+174,75,Emory University,United States of America,2012,33.792519,-84.323999,student_staff_ratio,4.5
+175,75,Wageningen University and Research Center,Netherlands,2012,51.9846,5.6658,student_staff_ratio,17.0
+176,77,Tufts University,United States of America,2012,42.407484000000004,-71.119023,student_staff_ratio,10.0
+177,77,University of Colorado Boulder,United States of America,2012,40.007581,-105.265942,student_staff_ratio,16.1
+178,79,Leiden University,Netherlands,2012,52.1571,4.4852,student_staff_ratio,17.1
+179,80,Lund University,Sweden,2012,55.711948,13.203493,student_staff_ratio,11.5
+180,81,"Rutgers, the State University of New Jersey",United States of America,2012,40.4982,-74.4468,student_staff_ratio,17.3
+181,81,University of Rochester,United States of America,2012,43.1306,-77.626,student_staff_ratio,4.5
+182,83,Durham University,United Kingdom,2012,54.764986,-1.578203,student_staff_ratio,15.7
+183,84,Pierre and Marie Curie University,France,2012,48.8471,2.3575,student_staff_ratio,8.7
+184,85,University of St Andrews,United Kingdom,2012,56.3417,-2.7928,student_staff_ratio,12.7
+185,86,"University of California, Irvine",United States of America,2012,33.640495,-117.844296,student_staff_ratio,16.1
+186,87,Uppsala University,Sweden,2012,59.8509,17.63,student_staff_ratio,18.2
+187,88,Technical University of Munich,Germany,2012,48.1497,11.5679,student_staff_ratio,31.5
+188,89,University of Notre Dame,United States of America,2012,41.705572,-86.235339,student_staff_ratio,13.8
+189,90,Dartmouth College,United States of America,2012,43.704440999999996,-72.28869300000001,student_staff_ratio,6.6
+190,91,University of Helsinki,Finland,2012,60.1726,24.951,student_staff_ratio,15.1
+191,92,University of Amsterdam,Netherlands,2012,52.3558,4.9557,student_staff_ratio,14.4
+192,93,Case Western Reserve University,United States of America,2012,41.504341,-81.608384,student_staff_ratio,6.4
+193,94,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2012,36.369392,127.364025,student_staff_ratio,10.0
+194,94,"University of Maryland, College Park",United States of America,2012,38.986918,-76.942554,student_staff_ratio,8.4
+195,96,Michigan State University,United States of America,2012,42.7018,-84.4822,student_staff_ratio,15.7
+196,97,University of Arizona,United States of America,2012,32.231885,-110.95010900000001,student_staff_ratio,12.7
+197,98,Purdue University,United States of America,2012,40.4237,-86.9212,student_staff_ratio,18.1
+198,99,University of Sussex,United Kingdom,2012,50.867090000000005,-0.08791399999999999,student_staff_ratio,17.4
+199,100,University of Alberta,Canada,2012,53.5232,-113.5263,student_staff_ratio,21.6
+200,1,California Institute of Technology,United States of America,2013,34.137658,-118.12526899999999,student_staff_ratio,6.9
+201,2,Stanford University,United States of America,2013,37.427475,-122.169719,student_staff_ratio,7.8
+202,2,University of Oxford,United Kingdom,2013,51.756634000000005,-1.254704,student_staff_ratio,11.6
+203,4,Harvard University,United States of America,2013,42.380098,-71.116629,student_staff_ratio,8.9
+204,5,Massachusetts Institute of Technology,United States of America,2013,42.360091,-71.09416,student_staff_ratio,9.0
+205,6,Princeton University,United States of America,2013,40.343989,-74.651448,student_staff_ratio,8.4
+206,7,University of Cambridge,United Kingdom,2013,52.204267,0.114908,student_staff_ratio,11.8
+207,8,Imperial College London,United Kingdom,2013,51.4988,-0.174877,student_staff_ratio,11.7
+208,9,"University of California, Berkeley",United States of America,2013,37.871899,-122.25854,student_staff_ratio,16.4
+209,10,University of Chicago,United States of America,2013,41.788608,-87.598713,student_staff_ratio,6.9
+210,11,Yale University,United States of America,2013,41.316324,-72.92234300000001,student_staff_ratio,4.4
+211,12,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2013,47.376313,8.54767,student_staff_ratio,14.7
+212,13,"University of California, Los Angeles",United States of America,2013,34.068921,-118.445181,student_staff_ratio,10.3
+213,14,Columbia University,United States of America,2013,40.807536,-73.96257299999999,student_staff_ratio,5.9
+214,15,University of Pennsylvania,United States of America,2013,-75.193214,-75.193214,student_staff_ratio,6.5
+215,16,Johns Hopkins University,United States of America,2013,39.329901,-76.620518,student_staff_ratio,3.6
+216,17,University College London,United Kingdom,2013,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+217,18,Cornell University,United States of America,2013,42.453449,-76.47350300000001,student_staff_ratio,10.2
+218,19,Northwestern University,United States of America,2013,42.056459000000004,-87.675267,student_staff_ratio,13.8
+219,20,University of Michigan,United States of America,2013,42.278044,-83.738224,student_staff_ratio,9.0
+220,21,University of Toronto,Canada,2013,43.662892,-79.395656,student_staff_ratio,19.5
+221,22,Carnegie Mellon University,United States of America,2013,40.443466,-79.943457,student_staff_ratio,13.1
+222,23,Duke University,United States of America,2013,36.001426,-78.938229,student_staff_ratio,4.8
+223,24,University of Washington,United States of America,2013,47.655335,-122.30351999999999,student_staff_ratio,11.8
+224,25,Georgia Institute of Technology,United States of America,2013,33.775618,-84.39628499999999,student_staff_ratio,20.1
+225,25,University of Texas at Austin,United States of America,2013,30.2849,-97.7341,student_staff_ratio,17.4
+226,27,University of Tokyo,Japan,2013,35.712677,139.761989,student_staff_ratio,5.7
+227,28,University of Melbourne,Australia,2013,-37.796369,144.961174,student_staff_ratio,23.7
+228,29,National University of Singapore,Singapore,2013,1.296643,103.776394,student_staff_ratio,15.5
+229,30,University of British Columbia,Canada,2013,49.260605,-123.245994,student_staff_ratio,17.6
+230,31,University of Wisconsin-Madison,United States of America,2013,43.0766,-89.4125,student_staff_ratio,10.8
+231,32,University of Edinburgh,United Kingdom,2013,55.944516,-3.189241,student_staff_ratio,14.1
+232,33,University of Illinois at Urbana-Champaign,United States of America,2013,40.101952000000004,-88.227161,student_staff_ratio,18.7
+233,34,McGill University,Canada,2013,45.504785,-73.577151,student_staff_ratio,13.7
+234,35,"University of California, Santa Barbara",United States of America,2013,34.413963,-119.848947,student_staff_ratio,27.3
+235,35,University of Hong Kong,Hong Kong,2013,22.282999,114.13708500000001,student_staff_ratio,17.6
+236,37,Australian National University,Australia,2013,-35.2777,149.118527,student_staff_ratio,19.2
+237,38,"University of California, San Diego",United States of America,2013,32.88006,-117.23401399999999,student_staff_ratio,6.5
+238,39,London School of Economics and Political Science,United Kingdom,2013,51.514408,-0.117377,student_staff_ratio,
+239,40,École Polytechnique Fédérale de Lausanne,Switzerland,2013,46.519056,6.566758,student_staff_ratio,10.5
+240,41,New York University,United States of America,2013,40.729513,-73.996461,student_staff_ratio,6.8
+241,42,Karolinska Institute,Sweden,2013,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+242,42,University of North Carolina at Chapel Hill,United States of America,2013,35.904912,-79.046913,student_staff_ratio,7.3
+243,44,"University of California, Davis",United States of America,2013,38.538232,-121.76171200000002,student_staff_ratio,13.9
+244,44,Washington University in St Louis,United States of America,2013,38.648789,-90.310796,student_staff_ratio,5.7
+245,46,Peking University,China,2013,39.986913,116.305874,student_staff_ratio,8.3
+246,47,University of Minnesota,United States of America,2013,44.97399,-93.22772900000001,student_staff_ratio,18.0
+247,48,LMU Munich,Germany,2013,48.150942,11.582443,student_staff_ratio,15.5
+248,49,University of Manchester,United Kingdom,2013,53.46685,-2.233884,student_staff_ratio,15.3
+249,50,Pohang University of Science and Technology,South Korea,2013,36.013886,129.323184,student_staff_ratio,10.1
+250,51,Brown University,United States of America,2013,41.826772,-71.402548,student_staff_ratio,10.1
+251,52,Tsinghua University,China,2013,39.999666999999995,116.326444,student_staff_ratio,13.7
+252,53,Ohio State University,United States of America,2013,40.01419,-83.030914,student_staff_ratio,13.4
+253,54,Boston University,United States of America,2013,42.3505,-71.105399,student_staff_ratio,8.6
+254,54,Kyoto University,Japan,2013,35.026244,135.780822,student_staff_ratio,5.6
+255,56,University of Southern California,United States of America,2013,34.022352000000005,-118.285117,student_staff_ratio,12.9
+256,57,King’s College London,United Kingdom,2013,51.511486,-0.115997,student_staff_ratio,11.4
+257,58,KU Leuven,Belgium,2013,50.878,4.7003,student_staff_ratio,41.9
+258,59,Seoul National University,South Korea,2013,37.4599,126.9519,student_staff_ratio,13.9
+259,59,École Normale Supérieure,France,2013,48.842206,2.345169,student_staff_ratio,7.9
+260,61,Pennsylvania State University,United States of America,2013,40.7982,-77.8599,student_staff_ratio,12.4
+261,62,University of Sydney,Australia,2013,-33.888584,151.187347,student_staff_ratio,20.2
+262,62,École Polytechnique,France,2013,48.714296999999995,2.211292,student_staff_ratio,4.8
+263,64,Leiden University,Netherlands,2013,52.1571,4.4852,student_staff_ratio,17.1
+264,65,Hong Kong University of Science and Technology,Hong Kong,2013,22.3364,114.26546599999999,student_staff_ratio,23.8
+265,65,The University of Queensland,Australia,2013,-27.495431,153.01203,student_staff_ratio,32.7
+266,67,Utrecht University,Netherlands,2013,52.0902,5.1226,student_staff_ratio,15.4
+267,68,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2013,36.369392,127.364025,student_staff_ratio,10.0
+268,69,Purdue University,United States of America,2013,40.4237,-86.9212,student_staff_ratio,18.1
+269,70,University of Göttingen,Germany,2013,51.540812,9.9374,student_staff_ratio,25.6
+270,70,Wageningen University and Research Center,Netherlands,2013,51.9846,5.6658,student_staff_ratio,17.0
+271,72,Erasmus University Rotterdam,Netherlands,2013,51.9175,4.5256,student_staff_ratio,18.9
+272,72,University of Massachusetts,United States of America,2013,42.391157,-72.526712,student_staff_ratio,13.0
+273,74,University of Bristol,United Kingdom,2013,51.458417,-2.602979,student_staff_ratio,14.0
+274,75,Rice University,United States of America,2013,29.717394,-95.401831,student_staff_ratio,9.0
+275,76,University of Pittsburgh,United States of America,2013,40.444353,-79.960835,student_staff_ratio,5.8
+276,77,Delft University of Technology,Netherlands,2013,52.0008,4.3714,student_staff_ratio,19.4
+277,78,Heidelberg University,Germany,2013,41.114304,-83.16640699999999,student_staff_ratio,24.5
+278,79,Emory University,United States of America,2013,33.792519,-84.323999,student_staff_ratio,4.5
+279,80,Durham University,United Kingdom,2013,54.764986,-1.578203,student_staff_ratio,15.7
+280,81,Pierre and Marie Curie University,France,2013,48.8471,2.3575,student_staff_ratio,8.7
+281,82,Lund University,Sweden,2013,55.711948,13.203493,student_staff_ratio,11.5
+282,83,University of Amsterdam,Netherlands,2013,52.3558,4.9557,student_staff_ratio,14.4
+283,84,University of Montreal,Canada,2013,45.5056,-73.6138,student_staff_ratio,20.3
+284,85,University of New South Wales,Australia,2013,-33.9173,151.2313,student_staff_ratio,25.9
+285,86,Nanyang Technological University,Singapore,2013,1.3483,103.6831,student_staff_ratio,16.2
+286,87,Tufts University,United States of America,2013,42.407484000000004,-71.119023,student_staff_ratio,10.0
+287,88,McMaster University,Canada,2013,43.260878999999996,-79.919225,student_staff_ratio,19.3
+288,89,University of Groningen,Netherlands,2013,53.2193,6.563,student_staff_ratio,25.6
+289,89,University of Zurich,Switzerland,2013,47.374322,8.550981,student_staff_ratio,6.5
+290,91,University of Colorado Boulder,United States of America,2013,40.007581,-105.265942,student_staff_ratio,16.1
+291,92,Paris-Sud University,France,2013,48.6977,2.1765,student_staff_ratio,15.0
+292,93,Ghent University,Belgium,2013,51.0466,3.7279,student_staff_ratio,34.1
+293,94,Michigan State University,United States of America,2013,42.7018,-84.4822,student_staff_ratio,15.7
+294,94,University of Notre Dame,United States of America,2013,41.705572,-86.235339,student_staff_ratio,13.8
+295,96,"University of California, Irvine",United States of America,2013,33.640495,-117.844296,student_staff_ratio,16.1
+296,97,"University of Maryland, College Park",United States of America,2013,38.986918,-76.942554,student_staff_ratio,8.4
+297,98,University of Arizona,United States of America,2013,32.231885,-110.95010900000001,student_staff_ratio,12.7
+298,99,Humboldt University of Berlin,Germany,2013,52.5179,13.3937,student_staff_ratio,52.5
+299,99,Monash University,Australia,2013,-37.876823,145.045837,student_staff_ratio,40.5
+300,99,"Rutgers, the State University of New Jersey",United States of America,2013,40.4982,-74.4468,student_staff_ratio,17.3
+301,1,California Institute of Technology,United States of America,2014,34.137658,-118.12526899999999,student_staff_ratio,6.9
+302,2,Harvard University,United States of America,2014,42.380098,-71.116629,student_staff_ratio,8.9
+303,2,University of Oxford,United Kingdom,2014,51.756634000000005,-1.254704,student_staff_ratio,11.6
+304,4,Stanford University,United States of America,2014,37.427475,-122.169719,student_staff_ratio,7.8
+305,5,Massachusetts Institute of Technology,United States of America,2014,42.360091,-71.09416,student_staff_ratio,9.0
+306,6,Princeton University,United States of America,2014,40.343989,-74.651448,student_staff_ratio,8.4
+307,7,University of Cambridge,United Kingdom,2014,52.204267,0.114908,student_staff_ratio,11.8
+308,8,"University of California, Berkeley",United States of America,2014,37.871899,-122.25854,student_staff_ratio,16.4
+309,9,University of Chicago,United States of America,2014,41.788608,-87.598713,student_staff_ratio,6.9
+310,10,Imperial College London,United Kingdom,2014,51.4988,-0.174877,student_staff_ratio,11.7
+311,11,Yale University,United States of America,2014,41.316324,-72.92234300000001,student_staff_ratio,4.4
+312,12,"University of California, Los Angeles",United States of America,2014,34.068921,-118.445181,student_staff_ratio,10.3
+313,13,Columbia University,United States of America,2014,40.807536,-73.96257299999999,student_staff_ratio,5.9
+314,14,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2014,47.376313,8.54767,student_staff_ratio,14.7
+315,15,Johns Hopkins University,United States of America,2014,39.329901,-76.620518,student_staff_ratio,3.6
+316,16,University of Pennsylvania,United States of America,2014,-75.193214,-75.193214,student_staff_ratio,6.5
+317,17,Duke University,United States of America,2014,36.001426,-78.938229,student_staff_ratio,4.8
+318,18,University of Michigan,United States of America,2014,42.278044,-83.738224,student_staff_ratio,9.0
+319,19,Cornell University,United States of America,2014,42.453449,-76.47350300000001,student_staff_ratio,10.2
+320,20,University of Toronto,Canada,2014,43.662892,-79.395656,student_staff_ratio,19.5
+321,21,University College London,United Kingdom,2014,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+322,22,Northwestern University,United States of America,2014,42.056459000000004,-87.675267,student_staff_ratio,13.8
+323,23,University of Tokyo,Japan,2014,35.712677,139.761989,student_staff_ratio,5.7
+324,24,Carnegie Mellon University,United States of America,2014,40.443466,-79.943457,student_staff_ratio,13.1
+325,25,University of Washington,United States of America,2014,47.655335,-122.30351999999999,student_staff_ratio,11.8
+326,26,National University of Singapore,Singapore,2014,1.296643,103.776394,student_staff_ratio,15.5
+327,27,University of Texas at Austin,United States of America,2014,30.2849,-97.7341,student_staff_ratio,17.4
+328,28,Georgia Institute of Technology,United States of America,2014,33.775618,-84.39628499999999,student_staff_ratio,20.1
+329,29,University of Illinois at Urbana-Champaign,United States of America,2014,40.101952000000004,-88.227161,student_staff_ratio,18.7
+330,30,University of Wisconsin-Madison,United States of America,2014,43.0766,-89.4125,student_staff_ratio,10.8
+331,31,University of British Columbia,Canada,2014,49.260605,-123.245994,student_staff_ratio,17.6
+332,32,London School of Economics and Political Science,United Kingdom,2014,51.514408,-0.117377,student_staff_ratio,
+333,33,"University of California, Santa Barbara",United States of America,2014,34.413963,-119.848947,student_staff_ratio,27.3
+334,34,University of Melbourne,Australia,2014,-37.796369,144.961174,student_staff_ratio,23.7
+335,35,McGill University,Canada,2014,45.504785,-73.577151,student_staff_ratio,13.7
+336,36,Karolinska Institute,Sweden,2014,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+337,37,École Polytechnique Fédérale de Lausanne,Switzerland,2014,46.519056,6.566758,student_staff_ratio,10.5
+338,38,King’s College London,United Kingdom,2014,51.511486,-0.115997,student_staff_ratio,11.4
+339,39,University of Edinburgh,United Kingdom,2014,55.944516,-3.189241,student_staff_ratio,14.1
+340,40,New York University,United States of America,2014,40.729513,-73.996461,student_staff_ratio,6.8
+341,40,"University of California, San Diego",United States of America,2014,32.88006,-117.23401399999999,student_staff_ratio,6.5
+342,42,Washington University in St Louis,United States of America,2014,38.648789,-90.310796,student_staff_ratio,5.7
+343,43,University of Hong Kong,Hong Kong,2014,22.282999,114.13708500000001,student_staff_ratio,17.6
+344,44,Seoul National University,South Korea,2014,37.4599,126.9519,student_staff_ratio,13.9
+345,45,Peking University,China,2014,39.986913,116.305874,student_staff_ratio,8.3
+346,46,University of Minnesota,United States of America,2014,44.97399,-93.22772900000001,student_staff_ratio,18.0
+347,47,University of North Carolina at Chapel Hill,United States of America,2014,35.904912,-79.046913,student_staff_ratio,7.3
+348,48,Australian National University,Australia,2014,-35.2777,149.118527,student_staff_ratio,19.2
+349,49,Pennsylvania State University,United States of America,2014,40.7982,-77.8599,student_staff_ratio,12.4
+350,50,Boston University,United States of America,2014,42.3505,-71.105399,student_staff_ratio,8.6
+351,50,Tsinghua University,China,2014,39.999666999999995,116.326444,student_staff_ratio,13.7
+352,52,Brown University,United States of America,2014,41.826772,-71.402548,student_staff_ratio,10.1
+353,52,Kyoto University,Japan,2014,35.026244,135.780822,student_staff_ratio,5.6
+354,52,"University of California, Davis",United States of America,2014,38.538232,-121.76171200000002,student_staff_ratio,13.9
+355,55,LMU Munich,Germany,2014,48.150942,11.582443,student_staff_ratio,15.5
+356,56,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2014,36.369392,127.364025,student_staff_ratio,10.0
+357,57,Hong Kong University of Science and Technology,Hong Kong,2014,22.3364,114.26546599999999,student_staff_ratio,23.8
+358,58,University of Manchester,United Kingdom,2014,53.46685,-2.233884,student_staff_ratio,15.3
+359,59,Ohio State University,United States of America,2014,40.01419,-83.030914,student_staff_ratio,13.4
+360,60,Pohang University of Science and Technology,South Korea,2014,36.013886,129.323184,student_staff_ratio,10.1
+361,61,KU Leuven,Belgium,2014,50.878,4.7003,student_staff_ratio,41.9
+362,62,Purdue University,United States of America,2014,40.4237,-86.9212,student_staff_ratio,18.1
+363,63,The University of Queensland,Australia,2014,-27.495431,153.01203,student_staff_ratio,32.7
+364,63,University of Göttingen,Germany,2014,51.540812,9.9374,student_staff_ratio,25.6
+365,65,Rice University,United States of America,2014,29.717394,-95.401831,student_staff_ratio,9.0
+366,65,École Normale Supérieure,France,2014,48.842206,2.345169,student_staff_ratio,7.9
+367,67,Leiden University,Netherlands,2014,52.1571,4.4852,student_staff_ratio,17.1
+368,68,Heidelberg University,Germany,2014,41.114304,-83.16640699999999,student_staff_ratio,24.5
+369,69,Delft University of Technology,Netherlands,2014,52.0008,4.3714,student_staff_ratio,19.4
+370,70,University of Southern California,United States of America,2014,34.022352000000005,-118.285117,student_staff_ratio,12.9
+371,70,École Polytechnique,France,2014,48.714296999999995,2.211292,student_staff_ratio,4.8
+372,72,University of Sydney,Australia,2014,-33.888584,151.187347,student_staff_ratio,20.2
+373,73,Erasmus University Rotterdam,Netherlands,2014,51.9175,4.5256,student_staff_ratio,18.9
+374,74,University of Basel,Switzerland,2014,47.560253,7.5826,student_staff_ratio,17.3
+375,74,Utrecht University,Netherlands,2014,52.0902,5.1226,student_staff_ratio,15.4
+376,76,Nanyang Technological University,Singapore,2014,1.3483,103.6831,student_staff_ratio,16.2
+377,77,Wageningen University and Research Center,Netherlands,2014,51.9846,5.6658,student_staff_ratio,17.0
+378,78,University of Pittsburgh,United States of America,2014,40.444353,-79.960835,student_staff_ratio,5.8
+379,79,University of Bristol,United Kingdom,2014,51.458417,-2.602979,student_staff_ratio,14.0
+380,80,Durham University,United Kingdom,2014,54.764986,-1.578203,student_staff_ratio,15.7
+381,80,Emory University,United States of America,2014,33.792519,-84.323999,student_staff_ratio,4.5
+382,80,Tufts University,United States of America,2014,42.407484000000004,-71.119023,student_staff_ratio,10.0
+383,83,Michigan State University,United States of America,2014,42.7018,-84.4822,student_staff_ratio,15.7
+384,83,University of Amsterdam,Netherlands,2014,52.3558,4.9557,student_staff_ratio,14.4
+385,85,Ghent University,Belgium,2014,51.0466,3.7279,student_staff_ratio,34.1
+386,86,Free University of Berlin,Germany,2014,52.4525,13.2897,student_staff_ratio,39.3
+387,87,Technical University of Munich,Germany,2014,48.1497,11.5679,student_staff_ratio,31.5
+388,88,Case Western Reserve University,United States of America,2014,41.504341,-81.608384,student_staff_ratio,6.4
+389,88,Vanderbilt University,United States of America,2014,36.144703,-86.802655,student_staff_ratio,3.6
+390,90,University of Notre Dame,United States of America,2014,41.705572,-86.235339,student_staff_ratio,13.8
+391,91,Monash University,Australia,2014,-37.876823,145.045837,student_staff_ratio,40.5
+392,92,McMaster University,Canada,2014,43.260878999999996,-79.919225,student_staff_ratio,19.3
+393,93,"University of California, Irvine",United States of America,2014,33.640495,-117.844296,student_staff_ratio,16.1
+394,94,Humboldt University of Berlin,Germany,2014,52.5179,13.3937,student_staff_ratio,52.5
+395,95,University of Rochester,United States of America,2014,43.1306,-77.626,student_staff_ratio,4.5
+396,96,Pierre and Marie Curie University,France,2014,48.8471,2.3575,student_staff_ratio,8.7
+397,97,University of Colorado Boulder,United States of America,2014,40.007581,-105.265942,student_staff_ratio,16.1
+398,98,Maastricht University,Netherlands,2014,50.8471,5.6864,student_staff_ratio,18.9
+399,98,University of Groningen,Netherlands,2014,53.2193,6.563,student_staff_ratio,25.6
+400,100,University of Helsinki,Finland,2014,60.1726,24.951,student_staff_ratio,15.1
+401,100,University of York,United Kingdom,2014,53.945533,-1.056167,student_staff_ratio,
+402,1,California Institute of Technology,United States of America,2015,34.137658,-118.12526899999999,student_staff_ratio,6.9
+403,2,Harvard University,United States of America,2015,42.380098,-71.116629,student_staff_ratio,8.9
+404,3,University of Oxford,United Kingdom,2015,51.756634000000005,-1.254704,student_staff_ratio,11.6
+405,4,Stanford University,United States of America,2015,37.427475,-122.169719,student_staff_ratio,7.8
+406,5,University of Cambridge,United Kingdom,2015,52.204267,0.114908,student_staff_ratio,11.8
+407,6,Massachusetts Institute of Technology,United States of America,2015,42.360091,-71.09416,student_staff_ratio,9.0
+408,7,Princeton University,United States of America,2015,40.343989,-74.651448,student_staff_ratio,8.4
+409,8,"University of California, Berkeley",United States of America,2015,37.871899,-122.25854,student_staff_ratio,16.4
+410,9,Imperial College London,United Kingdom,2015,51.4988,-0.174877,student_staff_ratio,11.7
+411,9,Yale University,United States of America,2015,41.316324,-72.92234300000001,student_staff_ratio,4.4
+412,11,University of Chicago,United States of America,2015,41.788608,-87.598713,student_staff_ratio,6.9
+413,12,"University of California, Los Angeles",United States of America,2015,34.068921,-118.445181,student_staff_ratio,10.3
+414,13,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2015,47.376313,8.54767,student_staff_ratio,14.7
+415,14,Columbia University,United States of America,2015,40.807536,-73.96257299999999,student_staff_ratio,5.9
+416,15,Johns Hopkins University,United States of America,2015,39.329901,-76.620518,student_staff_ratio,3.6
+417,16,University of Pennsylvania,United States of America,2015,-75.193214,-75.193214,student_staff_ratio,6.5
+418,17,University of Michigan,United States of America,2015,42.278044,-83.738224,student_staff_ratio,9.0
+419,18,Duke University,United States of America,2015,36.001426,-78.938229,student_staff_ratio,4.8
+420,19,Cornell University,United States of America,2015,42.453449,-76.47350300000001,student_staff_ratio,10.2
+421,20,University of Toronto,Canada,2015,43.662892,-79.395656,student_staff_ratio,19.5
+422,21,Northwestern University,United States of America,2015,42.056459000000004,-87.675267,student_staff_ratio,13.8
+423,22,University College London,United Kingdom,2015,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+424,23,University of Tokyo,Japan,2015,35.712677,139.761989,student_staff_ratio,5.7
+425,24,Carnegie Mellon University,United States of America,2015,40.443466,-79.943457,student_staff_ratio,13.1
+426,25,National University of Singapore,Singapore,2015,1.296643,103.776394,student_staff_ratio,15.5
+427,26,University of Washington,United States of America,2015,47.655335,-122.30351999999999,student_staff_ratio,11.8
+428,27,Georgia Institute of Technology,United States of America,2015,33.775618,-84.39628499999999,student_staff_ratio,20.1
+429,28,University of Texas at Austin,United States of America,2015,30.2849,-97.7341,student_staff_ratio,17.4
+430,29,LMU Munich,Germany,2015,48.150942,11.582443,student_staff_ratio,15.5
+431,29,University of Illinois at Urbana-Champaign,United States of America,2015,40.101952000000004,-88.227161,student_staff_ratio,18.7
+432,29,University of Wisconsin-Madison,United States of America,2015,43.0766,-89.4125,student_staff_ratio,10.8
+433,32,University of British Columbia,Canada,2015,49.260605,-123.245994,student_staff_ratio,17.6
+434,33,University of Melbourne,Australia,2015,-37.796369,144.961174,student_staff_ratio,23.7
+435,34,London School of Economics and Political Science,United Kingdom,2015,51.514408,-0.117377,student_staff_ratio,
+436,34,École Polytechnique Fédérale de Lausanne,Switzerland,2015,46.519056,6.566758,student_staff_ratio,10.5
+437,36,University of Edinburgh,United Kingdom,2015,55.944516,-3.189241,student_staff_ratio,14.1
+438,37,"University of California, Santa Barbara",United States of America,2015,34.413963,-119.848947,student_staff_ratio,27.3
+439,38,New York University,United States of America,2015,40.729513,-73.996461,student_staff_ratio,6.8
+440,39,McGill University,Canada,2015,45.504785,-73.577151,student_staff_ratio,13.7
+441,40,King’s College London,United Kingdom,2015,51.511486,-0.115997,student_staff_ratio,11.4
+442,41,"University of California, San Diego",United States of America,2015,32.88006,-117.23401399999999,student_staff_ratio,6.5
+443,42,Washington University in St Louis,United States of America,2015,38.648789,-90.310796,student_staff_ratio,5.7
+444,43,University of Hong Kong,Hong Kong,2015,22.282999,114.13708500000001,student_staff_ratio,17.6
+445,44,Karolinska Institute,Sweden,2015,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+446,45,Australian National University,Australia,2015,-35.2777,149.118527,student_staff_ratio,19.2
+447,46,University of Minnesota,United States of America,2015,44.97399,-93.22772900000001,student_staff_ratio,18.0
+448,46,University of North Carolina at Chapel Hill,United States of America,2015,35.904912,-79.046913,student_staff_ratio,7.3
+449,48,Peking University,China,2015,39.986913,116.305874,student_staff_ratio,8.3
+450,49,Tsinghua University,China,2015,39.999666999999995,116.326444,student_staff_ratio,13.7
+451,50,Seoul National University,South Korea,2015,37.4599,126.9519,student_staff_ratio,13.9
+452,51,Hong Kong University of Science and Technology,Hong Kong,2015,22.3364,114.26546599999999,student_staff_ratio,23.8
+453,52,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2015,36.369392,127.364025,student_staff_ratio,10.0
+454,52,University of Manchester,United Kingdom,2015,53.46685,-2.233884,student_staff_ratio,15.3
+455,54,Brown University,United States of America,2015,41.826772,-71.402548,student_staff_ratio,10.1
+456,55,KU Leuven,Belgium,2015,50.878,4.7003,student_staff_ratio,41.9
+457,55,"University of California, Davis",United States of America,2015,38.538232,-121.76171200000002,student_staff_ratio,13.9
+458,57,Boston University,United States of America,2015,42.3505,-71.105399,student_staff_ratio,8.6
+459,58,Pennsylvania State University,United States of America,2015,40.7982,-77.8599,student_staff_ratio,12.4
+460,59,Kyoto University,Japan,2015,35.026244,135.780822,student_staff_ratio,5.6
+461,60,University of Sydney,Australia,2015,-33.888584,151.187347,student_staff_ratio,20.2
+462,61,Nanyang Technological University,Singapore,2015,1.3483,103.6831,student_staff_ratio,16.2
+463,61,École Polytechnique,France,2015,48.714296999999995,2.211292,student_staff_ratio,4.8
+464,63,Scuola Normale Superiore di Pisa,Italy,2015,43.7196,10.4003,student_staff_ratio,16.5
+465,64,Leiden University,Netherlands,2015,52.1571,4.4852,student_staff_ratio,17.1
+466,65,The University of Queensland,Australia,2015,-27.495431,153.01203,student_staff_ratio,32.7
+467,66,Pohang University of Science and Technology,South Korea,2015,36.013886,129.323184,student_staff_ratio,10.1
+468,67,University of Göttingen,Germany,2015,51.540812,9.9374,student_staff_ratio,25.6
+469,68,Ohio State University,United States of America,2015,40.01419,-83.030914,student_staff_ratio,13.4
+470,69,Rice University,United States of America,2015,29.717394,-95.401831,student_staff_ratio,9.0
+471,70,Heidelberg University,Germany,2015,41.114304,-83.16640699999999,student_staff_ratio,24.5
+472,71,Delft University of Technology,Netherlands,2015,52.0008,4.3714,student_staff_ratio,19.4
+473,72,Erasmus University Rotterdam,Netherlands,2015,51.9175,4.5256,student_staff_ratio,18.9
+474,73,Wageningen University and Research Center,Netherlands,2015,51.9846,5.6658,student_staff_ratio,17.0
+475,74,University of Bristol,United Kingdom,2015,51.458417,-2.602979,student_staff_ratio,14.0
+476,75,University of Basel,Switzerland,2015,47.560253,7.5826,student_staff_ratio,17.3
+477,75,University of Southern California,United States of America,2015,34.022352000000005,-118.285117,student_staff_ratio,12.9
+478,77,University of Amsterdam,Netherlands,2015,52.3558,4.9557,student_staff_ratio,14.4
+479,78,École Normale Supérieure,France,2015,48.842206,2.345169,student_staff_ratio,7.9
+480,79,Utrecht University,Netherlands,2015,52.0902,5.1226,student_staff_ratio,15.4
+481,80,Humboldt University of Berlin,Germany,2015,52.5179,13.3937,student_staff_ratio,52.5
+482,81,Free University of Berlin,Germany,2015,52.4525,13.2897,student_staff_ratio,39.3
+483,82,Michigan State University,United States of America,2015,42.7018,-84.4822,student_staff_ratio,15.7
+484,83,Durham University,United Kingdom,2015,54.764986,-1.578203,student_staff_ratio,15.7
+485,83,Monash University,Australia,2015,-37.876823,145.045837,student_staff_ratio,40.5
+486,85,Middle East Technical University,Turkey,2015,39.8921,32.7786,student_staff_ratio,22.2
+487,86,University of Arizona,United States of America,2015,32.231885,-110.95010900000001,student_staff_ratio,12.7
+488,86,University of Notre Dame,United States of America,2015,41.705572,-86.235339,student_staff_ratio,13.8
+489,88,Tufts University,United States of America,2015,42.407484000000004,-71.119023,student_staff_ratio,10.0
+490,88,"University of California, Irvine",United States of America,2015,33.640495,-117.844296,student_staff_ratio,16.1
+491,90,Ghent University,Belgium,2015,51.0466,3.7279,student_staff_ratio,34.1
+492,91,University of Massachusetts,United States of America,2015,42.391157,-72.526712,student_staff_ratio,13.0
+493,91,University of Pittsburgh,United States of America,2015,40.444353,-79.960835,student_staff_ratio,5.8
+494,93,Emory University,United States of America,2015,33.792519,-84.323999,student_staff_ratio,4.5
+495,94,McMaster University,Canada,2015,43.260878999999996,-79.919225,student_staff_ratio,19.3
+496,94,University of Glasgow,United Kingdom,2015,55.8721,-4.2882,student_staff_ratio,16.0
+497,96,Vanderbilt University,United States of America,2015,36.144703,-86.802655,student_staff_ratio,3.6
+498,97,University of Colorado Boulder,United States of America,2015,40.007581,-105.265942,student_staff_ratio,16.1
+499,98,Stockholm University,Sweden,2015,59.3628,18.0593,student_staff_ratio,23.7
+500,98,Technical University of Munich,Germany,2015,48.1497,11.5679,student_staff_ratio,31.5
+501,98,Uppsala University,Sweden,2015,59.8509,17.63,student_staff_ratio,18.2
+502,1,California Institute of Technology,United States of America,2016,34.137658,-118.12526899999999,student_staff_ratio,6.9
+503,2,University of Oxford,United Kingdom,2016,51.756634000000005,-1.254704,student_staff_ratio,11.6
+504,3,Stanford University,United States of America,2016,37.427475,-122.169719,student_staff_ratio,7.8
+505,4,University of Cambridge,United Kingdom,2016,52.204267,0.114908,student_staff_ratio,11.8
+506,5,Massachusetts Institute of Technology,United States of America,2016,42.360091,-71.09416,student_staff_ratio,9.0
+507,6,Harvard University,United States of America,2016,42.380098,-71.116629,student_staff_ratio,8.9
+508,7,Princeton University,United States of America,2016,40.343989,-74.651448,student_staff_ratio,8.4
+509,8,Imperial College London,United Kingdom,2016,51.4988,-0.174877,student_staff_ratio,11.7
+510,9,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2016,47.376313,8.54767,student_staff_ratio,14.7
+511,10,University of Chicago,United States of America,2016,41.788608,-87.598713,student_staff_ratio,6.9
+512,11,Johns Hopkins University,United States of America,2016,39.329901,-76.620518,student_staff_ratio,3.6
+513,12,Yale University,United States of America,2016,41.316324,-72.92234300000001,student_staff_ratio,4.4
+514,13,"University of California, Berkeley",United States of America,2016,37.871899,-122.25854,student_staff_ratio,16.4
+515,14,University College London,United Kingdom,2016,51.524559,-0.13404000000000002,student_staff_ratio,10.7
+516,15,Columbia University,United States of America,2016,40.807536,-73.96257299999999,student_staff_ratio,5.9
+517,16,"University of California, Los Angeles",United States of America,2016,34.068921,-118.445181,student_staff_ratio,10.3
+518,17,University of Pennsylvania,United States of America,2016,-75.193214,-75.193214,student_staff_ratio,6.5
+519,18,Cornell University,United States of America,2016,42.453449,-76.47350300000001,student_staff_ratio,10.2
+520,19,University of Toronto,Canada,2016,43.662892,-79.395656,student_staff_ratio,19.5
+521,20,Duke University,United States of America,2016,36.001426,-78.938229,student_staff_ratio,4.8
+522,21,University of Michigan,United States of America,2016,42.278044,-83.738224,student_staff_ratio,9.0
+523,22,Carnegie Mellon University,United States of America,2016,40.443466,-79.943457,student_staff_ratio,13.1
+524,23,London School of Economics and Political Science,United Kingdom,2016,51.514408,-0.117377,student_staff_ratio,
+525,24,University of Edinburgh,United Kingdom,2016,55.944516,-3.189241,student_staff_ratio,14.1
+526,25,Northwestern University,United States of America,2016,42.056459000000004,-87.675267,student_staff_ratio,13.8
+527,26,National University of Singapore,Singapore,2016,1.296643,103.776394,student_staff_ratio,15.5
+528,27,King’s College London,United Kingdom,2016,51.511486,-0.115997,student_staff_ratio,11.4
+529,28,Karolinska Institute,Sweden,2016,59.348147999999995,18.023657999999998,student_staff_ratio,11.5
+530,29,LMU Munich,Germany,2016,48.150942,11.582443,student_staff_ratio,15.5
+531,30,New York University,United States of America,2016,40.729513,-73.996461,student_staff_ratio,6.8
+532,31,École Polytechnique Fédérale de Lausanne,Switzerland,2016,46.519056,6.566758,student_staff_ratio,10.5
+533,32,University of Washington,United States of America,2016,47.655335,-122.30351999999999,student_staff_ratio,11.8
+534,33,University of Melbourne,Australia,2016,-37.796369,144.961174,student_staff_ratio,23.7
+535,34,University of British Columbia,Canada,2016,49.260605,-123.245994,student_staff_ratio,17.6
+536,35,KU Leuven,Belgium,2016,50.878,4.7003,student_staff_ratio,41.9
+537,36,University of Illinois at Urbana-Champaign,United States of America,2016,40.101952000000004,-88.227161,student_staff_ratio,18.7
+538,37,Heidelberg University,Germany,2016,41.114304,-83.16640699999999,student_staff_ratio,24.5
+539,38,McGill University,Canada,2016,45.504785,-73.577151,student_staff_ratio,13.7
+540,39,"University of California, San Diego",United States of America,2016,32.88006,-117.23401399999999,student_staff_ratio,6.5
+541,39,"University of California, Santa Barbara",United States of America,2016,34.413963,-119.848947,student_staff_ratio,27.3
+542,41,Georgia Institute of Technology,United States of America,2016,33.775618,-84.39628499999999,student_staff_ratio,20.1
+543,42,Peking University,China,2016,39.986913,116.305874,student_staff_ratio,8.3
+544,43,University of Tokyo,Japan,2016,35.712677,139.761989,student_staff_ratio,5.7
+545,44,"University of California, Davis",United States of America,2016,38.538232,-121.76171200000002,student_staff_ratio,13.9
+546,44,University of Hong Kong,Hong Kong,2016,22.282999,114.13708500000001,student_staff_ratio,17.6
+547,46,University of Texas at Austin,United States of America,2016,30.2849,-97.7341,student_staff_ratio,17.4
+548,47,Tsinghua University,China,2016,39.999666999999995,116.326444,student_staff_ratio,13.7
+549,47,Wageningen University and Research Center,Netherlands,2016,51.9846,5.6658,student_staff_ratio,17.0
+550,49,Humboldt University of Berlin,Germany,2016,52.5179,13.3937,student_staff_ratio,52.5
+551,50,University of Wisconsin-Madison,United States of America,2016,43.0766,-89.4125,student_staff_ratio,10.8
+552,51,Brown University,United States of America,2016,41.826772,-71.402548,student_staff_ratio,10.1
+553,52,Australian National University,Australia,2016,-35.2777,149.118527,student_staff_ratio,19.2
+554,53,Technical University of Munich,Germany,2016,48.1497,11.5679,student_staff_ratio,31.5
+555,54,École Normale Supérieure,France,2016,48.842206,2.345169,student_staff_ratio,7.9
+556,55,Nanyang Technological University,Singapore,2016,1.3483,103.6831,student_staff_ratio,16.2
+557,56,University of Manchester,United Kingdom,2016,53.46685,-2.233884,student_staff_ratio,15.3
+558,56,University of Sydney,Australia,2016,-33.888584,151.187347,student_staff_ratio,20.2
+559,58,University of Amsterdam,Netherlands,2016,52.3558,4.9557,student_staff_ratio,14.4
+560,59,Hong Kong University of Science and Technology,Hong Kong,2016,22.3364,114.26546599999999,student_staff_ratio,23.8
+561,60,The University of Queensland,Australia,2016,-27.495431,153.01203,student_staff_ratio,32.7
+562,60,Washington University in St Louis,United States of America,2016,38.648789,-90.310796,student_staff_ratio,5.7
+563,62,Utrecht University,Netherlands,2016,52.0902,5.1226,student_staff_ratio,15.4
+564,63,University of North Carolina at Chapel Hill,United States of America,2016,35.904912,-79.046913,student_staff_ratio,7.3
+565,64,Boston University,United States of America,2016,42.3505,-71.105399,student_staff_ratio,8.6
+566,65,Delft University of Technology,Netherlands,2016,52.0008,4.3714,student_staff_ratio,19.4
+567,65,University of Minnesota,United States of America,2016,44.97399,-93.22772900000001,student_staff_ratio,18.0
+568,67,Leiden University,Netherlands,2016,52.1571,4.4852,student_staff_ratio,17.1
+569,68,University of Southern California,United States of America,2016,34.022352000000005,-118.285117,student_staff_ratio,12.9
+570,69,University of Bristol,United Kingdom,2016,51.458417,-2.602979,student_staff_ratio,14.0
+571,70,Durham University,United Kingdom,2016,54.764986,-1.578203,student_staff_ratio,15.7
+572,71,Erasmus University Rotterdam,Netherlands,2016,51.9175,4.5256,student_staff_ratio,18.9
+573,72,Free University of Berlin,Germany,2016,52.4525,13.2897,student_staff_ratio,39.3
+574,73,Monash University,Australia,2016,-37.876823,145.045837,student_staff_ratio,40.5
+575,74,University of Groningen,Netherlands,2016,53.2193,6.563,student_staff_ratio,25.6
+576,75,Pennsylvania State University,United States of America,2016,40.7982,-77.8599,student_staff_ratio,12.4
+577,76,University of Glasgow,United Kingdom,2016,55.8721,-4.2882,student_staff_ratio,16.0
+578,76,University of Helsinki,Finland,2016,60.1726,24.951,student_staff_ratio,15.1
+579,78,University of Tübingen,Germany,2016,48.5295,9.0438,student_staff_ratio,38.9
+580,79,University of Pittsburgh,United States of America,2016,40.444353,-79.960835,student_staff_ratio,5.8
+581,80,University of Warwick,United Kingdom,2016,52.3793,-1.5615,student_staff_ratio,16.6
+582,81,Uppsala University,Sweden,2016,59.8509,17.63,student_staff_ratio,18.2
+583,82,University of Copenhagen,Denmark,2016,55.6802,12.5724,student_staff_ratio,4.1
+584,82,University of New South Wales,Australia,2016,-33.9173,151.2313,student_staff_ratio,25.9
+585,84,University of Freiburg,Germany,2016,47.9935,7.8459,student_staff_ratio,31.2
+586,85,Seoul National University,South Korea,2016,37.4599,126.9519,student_staff_ratio,13.9
+587,86,University of St Andrews,United Kingdom,2016,56.3417,-2.7928,student_staff_ratio,12.7
+588,87,Vanderbilt University,United States of America,2016,36.144703,-86.802655,student_staff_ratio,3.6
+589,88,Kyoto University,Japan,2016,35.026244,135.780822,student_staff_ratio,5.6
+590,88,Maastricht University,Netherlands,2016,50.8471,5.6864,student_staff_ratio,18.9
+591,90,Emory University,United States of America,2016,33.792519,-84.323999,student_staff_ratio,4.5
+592,90,Lund University,Sweden,2016,55.711948,13.203493,student_staff_ratio,11.5
+593,90,Ohio State University,United States of America,2016,40.01419,-83.030914,student_staff_ratio,13.4
+594,93,University of Exeter,United Kingdom,2016,50.7371,-3.5351,student_staff_ratio,18.8
+595,94,Georgetown University,United States of America,2016,38.9076,-77.0723,student_staff_ratio,8.5
+596,94,McMaster University,Canada,2016,43.260878999999996,-79.919225,student_staff_ratio,19.3
+597,94,University of Bonn,Germany,2016,50.7268,7.0865,student_staff_ratio,70.4
+598,97,University of Sheffield,United Kingdom,2016,53.3809,-1.4879,student_staff_ratio,15.5
+599,98,Queen Mary University of London,United Kingdom,2016,51.5241,-0.0404,student_staff_ratio,14.0
+600,99,Michigan State University,United States of America,2016,42.7018,-84.4822,student_staff_ratio,15.7
+601,99,University of Göttingen,Germany,2016,51.540812,9.9374,student_staff_ratio,25.6
+602,1,Harvard University,United States of America,2011,42.380098,-71.116629,international_students,0.25
+603,2,California Institute of Technology,United States of America,2011,34.137658,-118.12526899999999,international_students,0.27
+604,3,Massachusetts Institute of Technology,United States of America,2011,42.360091,-71.09416,international_students,0.33
+605,4,Stanford University,United States of America,2011,37.427475,-122.169719,international_students,0.22
+606,5,Princeton University,United States of America,2011,40.343989,-74.651448,international_students,0.27
+607,6,University of Cambridge,United Kingdom,2011,52.204267,0.114908,international_students,0.34
+608,6,University of Oxford,United Kingdom,2011,51.756634000000005,-1.254704,international_students,0.34
+609,8,"University of California, Berkeley",United States of America,2011,37.871899,-122.25854,international_students,0.15
+610,9,Imperial College London,United Kingdom,2011,51.4988,-0.174877,international_students,0.51
+611,10,Yale University,United States of America,2011,41.316324,-72.92234300000001,international_students,0.2
+612,11,"University of California, Los Angeles",United States of America,2011,34.068921,-118.445181,international_students,0.15
+613,12,University of Chicago,United States of America,2011,41.788608,-87.598713,international_students,0.21
+614,13,Johns Hopkins University,United States of America,2011,39.329901,-76.620518,international_students,0.23
+615,14,Cornell University,United States of America,2011,42.453449,-76.47350300000001,international_students,0.19
+616,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2011,47.376313,8.54767,international_students,0.37
+617,15,University of Michigan,United States of America,2011,42.278044,-83.738224,international_students,0.16
+618,17,University of Toronto,Canada,2011,43.662892,-79.395656,international_students,0.15
+619,18,Columbia University,United States of America,2011,40.807536,-73.96257299999999,international_students,0.28
+620,19,University of Pennsylvania,United States of America,2011,-75.193214,-75.193214,international_students,0.2
+621,20,Carnegie Mellon University,United States of America,2011,40.443466,-79.943457,international_students,0.35
+622,21,University of Hong Kong,Hong Kong,2011,22.282999,114.13708500000001,international_students,0.38
+623,22,University College London,United Kingdom,2011,51.524559,-0.13404000000000002,international_students,0.46
+624,23,University of Washington,United States of America,2011,47.655335,-122.30351999999999,international_students,0.13
+625,24,Duke University,United States of America,2011,36.001426,-78.938229,international_students,0.17
+626,25,Northwestern University,United States of America,2011,42.056459000000004,-87.675267,international_students,0.15
+627,26,University of Tokyo,Japan,2011,35.712677,139.761989,international_students,0.1
+628,27,Georgia Institute of Technology,United States of America,2011,33.775618,-84.39628499999999,international_students,0.26
+629,28,Pohang University of Science and Technology,South Korea,2011,36.013886,129.323184,international_students,0.04
+630,29,"University of California, Santa Barbara",United States of America,2011,34.413963,-119.848947,international_students,0.11
+631,30,University of British Columbia,Canada,2011,49.260605,-123.245994,international_students,0.25
+632,30,University of North Carolina at Chapel Hill,United States of America,2011,35.904912,-79.046913,international_students,0.08
+633,32,"University of California, San Diego",United States of America,2011,32.88006,-117.23401399999999,international_students,0.11
+634,33,University of Illinois at Urbana-Champaign,United States of America,2011,40.101952000000004,-88.227161,international_students,0.2
+635,34,National University of Singapore,Singapore,2011,1.296643,103.776394,international_students,0.34
+636,35,McGill University,Canada,2011,45.504785,-73.577151,international_students,0.23
+637,36,University of Melbourne,Australia,2011,-37.796369,144.961174,international_students,0.35
+638,37,Peking University,China,2011,39.986913,116.305874,international_students,0.14
+639,38,Washington University in St Louis,United States of America,2011,38.648789,-90.310796,international_students,0.17
+640,39,École Polytechnique,France,2011,48.714296999999995,2.211292,international_students,0.3
+641,40,University of Edinburgh,United Kingdom,2011,55.944516,-3.189241,international_students,0.36
+642,41,Hong Kong University of Science and Technology,Hong Kong,2011,22.3364,114.26546599999999,international_students,0.36
+643,42,École Normale Supérieure,France,2011,48.842206,2.345169,international_students,0.2
+644,43,Australian National University,Australia,2011,-35.2777,149.118527,international_students,0.35
+645,43,Karolinska Institute,Sweden,2011,59.348147999999995,18.023657999999998,international_students,0.22
+646,43,University of Göttingen,Germany,2011,51.540812,9.9374,international_students,0.12
+647,43,University of Wisconsin,United States of America,2011,43.076592,-89.412487,international_students,0.0
+648,47,Rice University,United States of America,2011,29.717394,-95.401831,international_students,0.26
+649,48,École Polytechnique Fédérale de Lausanne,Switzerland,2011,46.519056,6.566758,international_students,0.54
+650,49,"University of California, Irvine",United States of America,2011,33.640495,-117.844296,international_students,0.16
+651,49,University of Science and Technology of China,China,2011,31.838697999999997,117.26217,international_students,0.02
+652,51,Vanderbilt University,United States of America,2011,36.144703,-86.802655,international_students,0.1
+653,52,University of Minnesota,United States of America,2011,44.97399,-93.22772900000001,international_students,0.13
+654,53,Tufts University,United States of America,2011,42.407484000000004,-71.119023,international_students,0.14
+655,54,"University of California, Davis",United States of America,2011,38.538232,-121.76171200000002,international_students,0.13
+656,55,Brown University,United States of America,2011,41.826772,-71.402548,international_students,0.19
+657,56,University of Massachusetts,United States of America,2011,42.391157,-72.526712,international_students,0.11
+658,57,Kyoto University,Japan,2011,35.026244,135.780822,international_students,0.07
+659,58,Tsinghua University,China,2011,39.999666999999995,116.326444,international_students,0.1
+660,59,Boston University,United States of America,2011,42.3505,-71.105399,international_students,0.17
+661,60,New York University,United States of America,2011,40.729513,-73.996461,international_students,0.19
+662,61,Emory University,United States of America,2011,33.792519,-84.323999,international_students,0.18
+663,61,LMU Munich,Germany,2011,48.150942,11.582443,international_students,0.13
+664,63,University of Notre Dame,United States of America,2011,41.705572,-86.235339,international_students,0.1
+665,64,University of Pittsburgh,United States of America,2011,40.444353,-79.960835,international_students,0.1
+666,65,Case Western Reserve University,United States of America,2011,41.504341,-81.608384,international_students,0.17
+667,66,Ohio State University,United States of America,2011,40.01419,-83.030914,international_students,0.12
+668,67,University of Colorado Boulder,United States of America,2011,40.007581,-105.265942,international_students,0.08
+669,68,University of Bristol,United Kingdom,2011,51.458417,-2.602979,international_students,0.25
+670,68,"University of California, Santa Cruz",United States of America,2011,36.991386,-122.060872,international_students,0.01
+671,68,Yeshiva University,United States of America,2011,40.85066,-73.929866,international_students,0.07
+672,71,University of Sydney,Australia,2011,-33.888584,151.187347,international_students,0.28
+673,72,University of Virginia,United States of America,2011,38.033553000000005,-78.507977,international_students,0.12
+674,73,University of Adelaide,Australia,2011,-34.920603,138.60622800000002,international_students,0.26
+675,73,University of Southern California,United States of America,2011,34.022352000000005,-118.285117,international_students,0.2
+676,75,William & Mary,United States of America,2011,37.271674,-76.713378,international_students,0.07
+677,76,Trinity College Dublin,Republic of Ireland,2011,53.343793000000005,-6.2545720000000005,international_students,0.25
+678,77,King’s College London,United Kingdom,2011,51.511486,-0.115997,international_students,0.37
+679,78,Stony Brook University,United States of America,2011,40.912376,-73.123389,international_students,0.24
+680,79,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2011,36.369392,127.364025,international_students,0.09
+681,79,University of Sussex,United Kingdom,2011,50.867090000000005,-0.08791399999999999,international_students,0.35
+682,81,The University of Queensland,Australia,2011,-27.495431,153.01203,international_students,0.27
+683,81,University of York,United Kingdom,2011,53.945533,-1.056167,international_students,0.0
+684,83,Heidelberg University,Germany,2011,41.114304,-83.16640699999999,international_students,0.17
+685,83,University of Utah,United States of America,2011,40.764936999999996,-111.842102,international_students,0.09
+686,85,Durham University,United Kingdom,2011,54.764986,-1.578203,international_students,0.24
+687,86,London School of Economics and Political Science,United Kingdom,2011,51.514408,-0.117377,international_students,0.0
+688,87,University of Manchester,United Kingdom,2011,53.46685,-2.233884,international_students,0.34
+689,88,"Royal Holloway, University of London",United Kingdom,2011,51.425672999999996,-0.563063,international_students,0.37
+690,89,Lund University,Sweden,2011,55.711948,13.203493,international_students,0.15
+691,90,University of Southampton,United Kingdom,2011,50.935742,-1.3966379999999998,international_students,0.29
+692,90,University of Zurich,Switzerland,2011,47.374322,8.550981,international_students,0.19
+693,90,Wake Forest University,United States of America,2011,36.13525,-80.276342,international_students,0.05
+694,93,McMaster University,Canada,2011,43.260878999999996,-79.919225,international_students,0.15
+695,94,University College Dublin,Republic of Ireland,2011,53.30534399999999,-6.220654,international_students,0.23
+696,95,George Washington University,United States of America,2011,38.899715,-77.048599,international_students,0.16
+697,95,University of Arizona,United States of America,2011,32.231885,-110.95010900000001,international_students,0.08
+698,95,University of Basel,Switzerland,2011,47.560253,7.5826,international_students,0.24
+699,98,"University of Maryland, College Park",United States of America,2011,38.986918,-76.942554,international_students,0.09
+700,99,Dartmouth College,United States of America,2011,43.704440999999996,-72.28869300000001,international_students,0.16
+701,100,École Normale Supérieure de Lyon,France,2011,45.729834999999994,4.826911,international_students,0.14
+702,1,California Institute of Technology,United States of America,2012,34.137658,-118.12526899999999,international_students,0.27
+703,2,Harvard University,United States of America,2012,42.380098,-71.116629,international_students,0.25
+704,2,Stanford University,United States of America,2012,37.427475,-122.169719,international_students,0.22
+705,4,University of Oxford,United Kingdom,2012,51.756634000000005,-1.254704,international_students,0.34
+706,5,Princeton University,United States of America,2012,40.343989,-74.651448,international_students,0.27
+707,6,University of Cambridge,United Kingdom,2012,52.204267,0.114908,international_students,0.34
+708,7,Massachusetts Institute of Technology,United States of America,2012,42.360091,-71.09416,international_students,0.33
+709,8,Imperial College London,United Kingdom,2012,51.4988,-0.174877,international_students,0.51
+710,9,University of Chicago,United States of America,2012,41.788608,-87.598713,international_students,0.21
+711,10,"University of California, Berkeley",United States of America,2012,37.871899,-122.25854,international_students,0.15
+712,11,Yale University,United States of America,2012,41.316324,-72.92234300000001,international_students,0.2
+713,12,Columbia University,United States of America,2012,40.807536,-73.96257299999999,international_students,0.28
+714,13,"University of California, Los Angeles",United States of America,2012,34.068921,-118.445181,international_students,0.15
+715,14,Johns Hopkins University,United States of America,2012,39.329901,-76.620518,international_students,0.23
+716,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2012,47.376313,8.54767,international_students,0.37
+717,16,University of Pennsylvania,United States of America,2012,-75.193214,-75.193214,international_students,0.2
+718,17,University College London,United Kingdom,2012,51.524559,-0.13404000000000002,international_students,0.46
+719,18,University of Michigan,United States of America,2012,42.278044,-83.738224,international_students,0.16
+720,19,University of Toronto,Canada,2012,43.662892,-79.395656,international_students,0.15
+721,20,Cornell University,United States of America,2012,42.453449,-76.47350300000001,international_students,0.19
+722,21,Carnegie Mellon University,United States of America,2012,40.443466,-79.943457,international_students,0.35
+723,22,Duke University,United States of America,2012,36.001426,-78.938229,international_students,0.17
+724,22,University of British Columbia,Canada,2012,49.260605,-123.245994,international_students,0.25
+725,24,Georgia Institute of Technology,United States of America,2012,33.775618,-84.39628499999999,international_students,0.26
+726,25,University of Washington,United States of America,2012,47.655335,-122.30351999999999,international_students,0.13
+727,26,Northwestern University,United States of America,2012,42.056459000000004,-87.675267,international_students,0.15
+728,27,University of Wisconsin-Madison,United States of America,2012,43.0766,-89.4125,international_students,0.11
+729,28,McGill University,Canada,2012,45.504785,-73.577151,international_students,0.23
+730,29,University of Texas at Austin,United States of America,2012,30.2849,-97.7341,international_students,0.09
+731,30,University of Tokyo,Japan,2012,35.712677,139.761989,international_students,0.1
+732,31,University of Illinois at Urbana-Champaign,United States of America,2012,40.101952000000004,-88.227161,international_students,0.2
+733,32,Karolinska Institute,Sweden,2012,59.348147999999995,18.023657999999998,international_students,0.22
+734,33,"University of California, San Diego",United States of America,2012,32.88006,-117.23401399999999,international_students,0.11
+735,34,University of Hong Kong,Hong Kong,2012,22.282999,114.13708500000001,international_students,0.38
+736,35,"University of California, Santa Barbara",United States of America,2012,34.413963,-119.848947,international_students,0.11
+737,36,University of Edinburgh,United Kingdom,2012,55.944516,-3.189241,international_students,0.36
+738,37,University of Melbourne,Australia,2012,-37.796369,144.961174,international_students,0.35
+739,38,Australian National University,Australia,2012,-35.2777,149.118527,international_students,0.35
+740,38,"University of California, Davis",United States of America,2012,38.538232,-121.76171200000002,international_students,0.13
+741,40,National University of Singapore,Singapore,2012,1.296643,103.776394,international_students,0.34
+742,41,Washington University in St Louis,United States of America,2012,38.648789,-90.310796,international_students,0.17
+743,42,University of Minnesota,United States of America,2012,44.97399,-93.22772900000001,international_students,0.13
+744,43,University of North Carolina at Chapel Hill,United States of America,2012,35.904912,-79.046913,international_students,0.08
+745,44,New York University,United States of America,2012,40.729513,-73.996461,international_students,0.19
+746,45,LMU Munich,Germany,2012,48.150942,11.582443,international_students,0.13
+747,46,École Polytechnique Fédérale de Lausanne,Switzerland,2012,46.519056,6.566758,international_students,0.54
+748,47,London School of Economics and Political Science,United Kingdom,2012,51.514408,-0.117377,international_students,0.0
+749,48,University of Manchester,United Kingdom,2012,53.46685,-2.233884,international_students,0.34
+750,49,Brown University,United States of America,2012,41.826772,-71.402548,international_students,0.19
+751,49,Peking University,China,2012,39.986913,116.305874,international_students,0.14
+752,51,Pennsylvania State University,United States of America,2012,40.7982,-77.8599,international_students,0.12
+753,52,Kyoto University,Japan,2012,35.026244,135.780822,international_students,0.07
+754,53,Pohang University of Science and Technology,South Korea,2012,36.013886,129.323184,international_students,0.04
+755,54,Boston University,United States of America,2012,42.3505,-71.105399,international_students,0.17
+756,55,University of Southern California,United States of America,2012,34.022352000000005,-118.285117,international_students,0.2
+757,56,King’s College London,United Kingdom,2012,51.511486,-0.115997,international_students,0.37
+758,57,Ohio State University,United States of America,2012,40.01419,-83.030914,international_students,0.12
+759,58,University of Sydney,Australia,2012,-33.888584,151.187347,international_students,0.28
+760,59,University of Pittsburgh,United States of America,2012,40.444353,-79.960835,international_students,0.1
+761,59,École Normale Supérieure,France,2012,48.842206,2.345169,international_students,0.2
+762,61,University of Zurich,Switzerland,2012,47.374322,8.550981,international_students,0.19
+763,62,Hong Kong University of Science and Technology,Hong Kong,2012,22.3364,114.26546599999999,international_students,0.36
+764,63,École Polytechnique,France,2012,48.714296999999995,2.211292,international_students,0.3
+765,64,University of Massachusetts,United States of America,2012,42.391157,-72.526712,international_students,0.11
+766,65,McMaster University,Canada,2012,43.260878999999996,-79.919225,international_students,0.15
+767,66,University of Bristol,United Kingdom,2012,51.458417,-2.602979,international_students,0.25
+768,67,KU Leuven,Belgium,2012,50.878,4.7003,international_students,0.18
+769,68,Utrecht University,Netherlands,2012,52.0902,5.1226,international_students,0.07
+770,69,University of Göttingen,Germany,2012,51.540812,9.9374,international_students,0.12
+771,70,Vanderbilt University,United States of America,2012,36.144703,-86.802655,international_students,0.1
+772,71,Tsinghua University,China,2012,39.999666999999995,116.326444,international_students,0.1
+773,72,Rice University,United States of America,2012,29.717394,-95.401831,international_students,0.26
+774,73,Heidelberg University,Germany,2012,41.114304,-83.16640699999999,international_students,0.17
+775,74,The University of Queensland,Australia,2012,-27.495431,153.01203,international_students,0.27
+776,75,Emory University,United States of America,2012,33.792519,-84.323999,international_students,0.18
+777,75,Wageningen University and Research Center,Netherlands,2012,51.9846,5.6658,international_students,0.21
+778,77,Tufts University,United States of America,2012,42.407484000000004,-71.119023,international_students,0.14
+779,77,University of Colorado Boulder,United States of America,2012,40.007581,-105.265942,international_students,0.08
+780,79,Leiden University,Netherlands,2012,52.1571,4.4852,international_students,0.1
+781,80,Lund University,Sweden,2012,55.711948,13.203493,international_students,0.15
+782,81,"Rutgers, the State University of New Jersey",United States of America,2012,40.4982,-74.4468,international_students,0.08
+783,81,University of Rochester,United States of America,2012,43.1306,-77.626,international_students,0.26
+784,83,Durham University,United Kingdom,2012,54.764986,-1.578203,international_students,0.24
+785,84,Pierre and Marie Curie University,France,2012,48.8471,2.3575,international_students,0.18
+786,85,University of St Andrews,United Kingdom,2012,56.3417,-2.7928,international_students,0.47
+787,86,"University of California, Irvine",United States of America,2012,33.640495,-117.844296,international_students,0.16
+788,87,Uppsala University,Sweden,2012,59.8509,17.63,international_students,0.12
+789,88,Technical University of Munich,Germany,2012,48.1497,11.5679,international_students,0.2
+790,89,University of Notre Dame,United States of America,2012,41.705572,-86.235339,international_students,0.1
+791,90,Dartmouth College,United States of America,2012,43.704440999999996,-72.28869300000001,international_students,0.16
+792,91,University of Helsinki,Finland,2012,60.1726,24.951,international_students,0.06
+793,92,University of Amsterdam,Netherlands,2012,52.3558,4.9557,international_students,0.11
+794,93,Case Western Reserve University,United States of America,2012,41.504341,-81.608384,international_students,0.17
+795,94,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2012,36.369392,127.364025,international_students,0.09
+796,94,"University of Maryland, College Park",United States of America,2012,38.986918,-76.942554,international_students,0.09
+797,96,Michigan State University,United States of America,2012,42.7018,-84.4822,international_students,0.15
+798,97,University of Arizona,United States of America,2012,32.231885,-110.95010900000001,international_students,0.08
+799,98,Purdue University,United States of America,2012,40.4237,-86.9212,international_students,0.22
+800,99,University of Sussex,United Kingdom,2012,50.867090000000005,-0.08791399999999999,international_students,0.35
+801,100,University of Alberta,Canada,2012,53.5232,-113.5263,international_students,0.23
+802,1,California Institute of Technology,United States of America,2013,34.137658,-118.12526899999999,international_students,0.27
+803,2,Stanford University,United States of America,2013,37.427475,-122.169719,international_students,0.22
+804,2,University of Oxford,United Kingdom,2013,51.756634000000005,-1.254704,international_students,0.34
+805,4,Harvard University,United States of America,2013,42.380098,-71.116629,international_students,0.25
+806,5,Massachusetts Institute of Technology,United States of America,2013,42.360091,-71.09416,international_students,0.33
+807,6,Princeton University,United States of America,2013,40.343989,-74.651448,international_students,0.27
+808,7,University of Cambridge,United Kingdom,2013,52.204267,0.114908,international_students,0.34
+809,8,Imperial College London,United Kingdom,2013,51.4988,-0.174877,international_students,0.51
+810,9,"University of California, Berkeley",United States of America,2013,37.871899,-122.25854,international_students,0.15
+811,10,University of Chicago,United States of America,2013,41.788608,-87.598713,international_students,0.21
+812,11,Yale University,United States of America,2013,41.316324,-72.92234300000001,international_students,0.2
+813,12,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2013,47.376313,8.54767,international_students,0.37
+814,13,"University of California, Los Angeles",United States of America,2013,34.068921,-118.445181,international_students,0.15
+815,14,Columbia University,United States of America,2013,40.807536,-73.96257299999999,international_students,0.28
+816,15,University of Pennsylvania,United States of America,2013,-75.193214,-75.193214,international_students,0.2
+817,16,Johns Hopkins University,United States of America,2013,39.329901,-76.620518,international_students,0.23
+818,17,University College London,United Kingdom,2013,51.524559,-0.13404000000000002,international_students,0.46
+819,18,Cornell University,United States of America,2013,42.453449,-76.47350300000001,international_students,0.19
+820,19,Northwestern University,United States of America,2013,42.056459000000004,-87.675267,international_students,0.15
+821,20,University of Michigan,United States of America,2013,42.278044,-83.738224,international_students,0.16
+822,21,University of Toronto,Canada,2013,43.662892,-79.395656,international_students,0.15
+823,22,Carnegie Mellon University,United States of America,2013,40.443466,-79.943457,international_students,0.35
+824,23,Duke University,United States of America,2013,36.001426,-78.938229,international_students,0.17
+825,24,University of Washington,United States of America,2013,47.655335,-122.30351999999999,international_students,0.13
+826,25,Georgia Institute of Technology,United States of America,2013,33.775618,-84.39628499999999,international_students,0.26
+827,25,University of Texas at Austin,United States of America,2013,30.2849,-97.7341,international_students,0.09
+828,27,University of Tokyo,Japan,2013,35.712677,139.761989,international_students,0.1
+829,28,University of Melbourne,Australia,2013,-37.796369,144.961174,international_students,0.35
+830,29,National University of Singapore,Singapore,2013,1.296643,103.776394,international_students,0.34
+831,30,University of British Columbia,Canada,2013,49.260605,-123.245994,international_students,0.25
+832,31,University of Wisconsin-Madison,United States of America,2013,43.0766,-89.4125,international_students,0.11
+833,32,University of Edinburgh,United Kingdom,2013,55.944516,-3.189241,international_students,0.36
+834,33,University of Illinois at Urbana-Champaign,United States of America,2013,40.101952000000004,-88.227161,international_students,0.2
+835,34,McGill University,Canada,2013,45.504785,-73.577151,international_students,0.23
+836,35,"University of California, Santa Barbara",United States of America,2013,34.413963,-119.848947,international_students,0.11
+837,35,University of Hong Kong,Hong Kong,2013,22.282999,114.13708500000001,international_students,0.38
+838,37,Australian National University,Australia,2013,-35.2777,149.118527,international_students,0.35
+839,38,"University of California, San Diego",United States of America,2013,32.88006,-117.23401399999999,international_students,0.11
+840,39,London School of Economics and Political Science,United Kingdom,2013,51.514408,-0.117377,international_students,0.0
+841,40,École Polytechnique Fédérale de Lausanne,Switzerland,2013,46.519056,6.566758,international_students,0.54
+842,41,New York University,United States of America,2013,40.729513,-73.996461,international_students,0.19
+843,42,Karolinska Institute,Sweden,2013,59.348147999999995,18.023657999999998,international_students,0.22
+844,42,University of North Carolina at Chapel Hill,United States of America,2013,35.904912,-79.046913,international_students,0.08
+845,44,"University of California, Davis",United States of America,2013,38.538232,-121.76171200000002,international_students,0.13
+846,44,Washington University in St Louis,United States of America,2013,38.648789,-90.310796,international_students,0.17
+847,46,Peking University,China,2013,39.986913,116.305874,international_students,0.14
+848,47,University of Minnesota,United States of America,2013,44.97399,-93.22772900000001,international_students,0.13
+849,48,LMU Munich,Germany,2013,48.150942,11.582443,international_students,0.13
+850,49,University of Manchester,United Kingdom,2013,53.46685,-2.233884,international_students,0.34
+851,50,Pohang University of Science and Technology,South Korea,2013,36.013886,129.323184,international_students,0.04
+852,51,Brown University,United States of America,2013,41.826772,-71.402548,international_students,0.19
+853,52,Tsinghua University,China,2013,39.999666999999995,116.326444,international_students,0.1
+854,53,Ohio State University,United States of America,2013,40.01419,-83.030914,international_students,0.12
+855,54,Boston University,United States of America,2013,42.3505,-71.105399,international_students,0.17
+856,54,Kyoto University,Japan,2013,35.026244,135.780822,international_students,0.07
+857,56,University of Southern California,United States of America,2013,34.022352000000005,-118.285117,international_students,0.2
+858,57,King’s College London,United Kingdom,2013,51.511486,-0.115997,international_students,0.37
+859,58,KU Leuven,Belgium,2013,50.878,4.7003,international_students,0.18
+860,59,Seoul National University,South Korea,2013,37.4599,126.9519,international_students,0.1
+861,59,École Normale Supérieure,France,2013,48.842206,2.345169,international_students,0.2
+862,61,Pennsylvania State University,United States of America,2013,40.7982,-77.8599,international_students,0.12
+863,62,University of Sydney,Australia,2013,-33.888584,151.187347,international_students,0.28
+864,62,École Polytechnique,France,2013,48.714296999999995,2.211292,international_students,0.3
+865,64,Leiden University,Netherlands,2013,52.1571,4.4852,international_students,0.1
+866,65,Hong Kong University of Science and Technology,Hong Kong,2013,22.3364,114.26546599999999,international_students,0.36
+867,65,The University of Queensland,Australia,2013,-27.495431,153.01203,international_students,0.27
+868,67,Utrecht University,Netherlands,2013,52.0902,5.1226,international_students,0.07
+869,68,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2013,36.369392,127.364025,international_students,0.09
+870,69,Purdue University,United States of America,2013,40.4237,-86.9212,international_students,0.22
+871,70,University of Göttingen,Germany,2013,51.540812,9.9374,international_students,0.12
+872,70,Wageningen University and Research Center,Netherlands,2013,51.9846,5.6658,international_students,0.21
+873,72,Erasmus University Rotterdam,Netherlands,2013,51.9175,4.5256,international_students,0.18
+874,72,University of Massachusetts,United States of America,2013,42.391157,-72.526712,international_students,0.11
+875,74,University of Bristol,United Kingdom,2013,51.458417,-2.602979,international_students,0.25
+876,75,Rice University,United States of America,2013,29.717394,-95.401831,international_students,0.26
+877,76,University of Pittsburgh,United States of America,2013,40.444353,-79.960835,international_students,0.1
+878,77,Delft University of Technology,Netherlands,2013,52.0008,4.3714,international_students,0.25
+879,78,Heidelberg University,Germany,2013,41.114304,-83.16640699999999,international_students,0.17
+880,79,Emory University,United States of America,2013,33.792519,-84.323999,international_students,0.18
+881,80,Durham University,United Kingdom,2013,54.764986,-1.578203,international_students,0.24
+882,81,Pierre and Marie Curie University,France,2013,48.8471,2.3575,international_students,0.18
+883,82,Lund University,Sweden,2013,55.711948,13.203493,international_students,0.15
+884,83,University of Amsterdam,Netherlands,2013,52.3558,4.9557,international_students,0.11
+885,84,University of Montreal,Canada,2013,45.5056,-73.6138,international_students,0.25
+886,85,University of New South Wales,Australia,2013,-33.9173,151.2313,international_students,0.33
+887,86,Nanyang Technological University,Singapore,2013,1.3483,103.6831,international_students,0.33
+888,87,Tufts University,United States of America,2013,42.407484000000004,-71.119023,international_students,0.14
+889,88,McMaster University,Canada,2013,43.260878999999996,-79.919225,international_students,0.15
+890,89,University of Groningen,Netherlands,2013,53.2193,6.563,international_students,0.12
+891,89,University of Zurich,Switzerland,2013,47.374322,8.550981,international_students,0.19
+892,91,University of Colorado Boulder,United States of America,2013,40.007581,-105.265942,international_students,0.08
+893,92,Paris-Sud University,France,2013,48.6977,2.1765,international_students,0.17
+894,93,Ghent University,Belgium,2013,51.0466,3.7279,international_students,0.09
+895,94,Michigan State University,United States of America,2013,42.7018,-84.4822,international_students,0.15
+896,94,University of Notre Dame,United States of America,2013,41.705572,-86.235339,international_students,0.1
+897,96,"University of California, Irvine",United States of America,2013,33.640495,-117.844296,international_students,0.16
+898,97,"University of Maryland, College Park",United States of America,2013,38.986918,-76.942554,international_students,0.09
+899,98,University of Arizona,United States of America,2013,32.231885,-110.95010900000001,international_students,0.08
+900,99,Humboldt University of Berlin,Germany,2013,52.5179,13.3937,international_students,0.16
+901,99,Monash University,Australia,2013,-37.876823,145.045837,international_students,0.36
+902,99,"Rutgers, the State University of New Jersey",United States of America,2013,40.4982,-74.4468,international_students,0.08
+903,1,California Institute of Technology,United States of America,2014,34.137658,-118.12526899999999,international_students,0.27
+904,2,Harvard University,United States of America,2014,42.380098,-71.116629,international_students,0.25
+905,2,University of Oxford,United Kingdom,2014,51.756634000000005,-1.254704,international_students,0.34
+906,4,Stanford University,United States of America,2014,37.427475,-122.169719,international_students,0.22
+907,5,Massachusetts Institute of Technology,United States of America,2014,42.360091,-71.09416,international_students,0.33
+908,6,Princeton University,United States of America,2014,40.343989,-74.651448,international_students,0.27
+909,7,University of Cambridge,United Kingdom,2014,52.204267,0.114908,international_students,0.34
+910,8,"University of California, Berkeley",United States of America,2014,37.871899,-122.25854,international_students,0.15
+911,9,University of Chicago,United States of America,2014,41.788608,-87.598713,international_students,0.21
+912,10,Imperial College London,United Kingdom,2014,51.4988,-0.174877,international_students,0.51
+913,11,Yale University,United States of America,2014,41.316324,-72.92234300000001,international_students,0.2
+914,12,"University of California, Los Angeles",United States of America,2014,34.068921,-118.445181,international_students,0.15
+915,13,Columbia University,United States of America,2014,40.807536,-73.96257299999999,international_students,0.28
+916,14,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2014,47.376313,8.54767,international_students,0.37
+917,15,Johns Hopkins University,United States of America,2014,39.329901,-76.620518,international_students,0.23
+918,16,University of Pennsylvania,United States of America,2014,-75.193214,-75.193214,international_students,0.2
+919,17,Duke University,United States of America,2014,36.001426,-78.938229,international_students,0.17
+920,18,University of Michigan,United States of America,2014,42.278044,-83.738224,international_students,0.16
+921,19,Cornell University,United States of America,2014,42.453449,-76.47350300000001,international_students,0.19
+922,20,University of Toronto,Canada,2014,43.662892,-79.395656,international_students,0.15
+923,21,University College London,United Kingdom,2014,51.524559,-0.13404000000000002,international_students,0.46
+924,22,Northwestern University,United States of America,2014,42.056459000000004,-87.675267,international_students,0.15
+925,23,University of Tokyo,Japan,2014,35.712677,139.761989,international_students,0.1
+926,24,Carnegie Mellon University,United States of America,2014,40.443466,-79.943457,international_students,0.35
+927,25,University of Washington,United States of America,2014,47.655335,-122.30351999999999,international_students,0.13
+928,26,National University of Singapore,Singapore,2014,1.296643,103.776394,international_students,0.34
+929,27,University of Texas at Austin,United States of America,2014,30.2849,-97.7341,international_students,0.09
+930,28,Georgia Institute of Technology,United States of America,2014,33.775618,-84.39628499999999,international_students,0.26
+931,29,University of Illinois at Urbana-Champaign,United States of America,2014,40.101952000000004,-88.227161,international_students,0.2
+932,30,University of Wisconsin-Madison,United States of America,2014,43.0766,-89.4125,international_students,0.11
+933,31,University of British Columbia,Canada,2014,49.260605,-123.245994,international_students,0.25
+934,32,London School of Economics and Political Science,United Kingdom,2014,51.514408,-0.117377,international_students,0.0
+935,33,"University of California, Santa Barbara",United States of America,2014,34.413963,-119.848947,international_students,0.11
+936,34,University of Melbourne,Australia,2014,-37.796369,144.961174,international_students,0.35
+937,35,McGill University,Canada,2014,45.504785,-73.577151,international_students,0.23
+938,36,Karolinska Institute,Sweden,2014,59.348147999999995,18.023657999999998,international_students,0.22
+939,37,École Polytechnique Fédérale de Lausanne,Switzerland,2014,46.519056,6.566758,international_students,0.54
+940,38,King’s College London,United Kingdom,2014,51.511486,-0.115997,international_students,0.37
+941,39,University of Edinburgh,United Kingdom,2014,55.944516,-3.189241,international_students,0.36
+942,40,New York University,United States of America,2014,40.729513,-73.996461,international_students,0.19
+943,40,"University of California, San Diego",United States of America,2014,32.88006,-117.23401399999999,international_students,0.11
+944,42,Washington University in St Louis,United States of America,2014,38.648789,-90.310796,international_students,0.17
+945,43,University of Hong Kong,Hong Kong,2014,22.282999,114.13708500000001,international_students,0.38
+946,44,Seoul National University,South Korea,2014,37.4599,126.9519,international_students,0.1
+947,45,Peking University,China,2014,39.986913,116.305874,international_students,0.14
+948,46,University of Minnesota,United States of America,2014,44.97399,-93.22772900000001,international_students,0.13
+949,47,University of North Carolina at Chapel Hill,United States of America,2014,35.904912,-79.046913,international_students,0.08
+950,48,Australian National University,Australia,2014,-35.2777,149.118527,international_students,0.35
+951,49,Pennsylvania State University,United States of America,2014,40.7982,-77.8599,international_students,0.12
+952,50,Boston University,United States of America,2014,42.3505,-71.105399,international_students,0.17
+953,50,Tsinghua University,China,2014,39.999666999999995,116.326444,international_students,0.1
+954,52,Brown University,United States of America,2014,41.826772,-71.402548,international_students,0.19
+955,52,Kyoto University,Japan,2014,35.026244,135.780822,international_students,0.07
+956,52,"University of California, Davis",United States of America,2014,38.538232,-121.76171200000002,international_students,0.13
+957,55,LMU Munich,Germany,2014,48.150942,11.582443,international_students,0.13
+958,56,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2014,36.369392,127.364025,international_students,0.09
+959,57,Hong Kong University of Science and Technology,Hong Kong,2014,22.3364,114.26546599999999,international_students,0.36
+960,58,University of Manchester,United Kingdom,2014,53.46685,-2.233884,international_students,0.34
+961,59,Ohio State University,United States of America,2014,40.01419,-83.030914,international_students,0.12
+962,60,Pohang University of Science and Technology,South Korea,2014,36.013886,129.323184,international_students,0.04
+963,61,KU Leuven,Belgium,2014,50.878,4.7003,international_students,0.18
+964,62,Purdue University,United States of America,2014,40.4237,-86.9212,international_students,0.22
+965,63,The University of Queensland,Australia,2014,-27.495431,153.01203,international_students,0.27
+966,63,University of Göttingen,Germany,2014,51.540812,9.9374,international_students,0.12
+967,65,Rice University,United States of America,2014,29.717394,-95.401831,international_students,0.26
+968,65,École Normale Supérieure,France,2014,48.842206,2.345169,international_students,0.2
+969,67,Leiden University,Netherlands,2014,52.1571,4.4852,international_students,0.1
+970,68,Heidelberg University,Germany,2014,41.114304,-83.16640699999999,international_students,0.17
+971,69,Delft University of Technology,Netherlands,2014,52.0008,4.3714,international_students,0.25
+972,70,University of Southern California,United States of America,2014,34.022352000000005,-118.285117,international_students,0.2
+973,70,École Polytechnique,France,2014,48.714296999999995,2.211292,international_students,0.3
+974,72,University of Sydney,Australia,2014,-33.888584,151.187347,international_students,0.28
+975,73,Erasmus University Rotterdam,Netherlands,2014,51.9175,4.5256,international_students,0.18
+976,74,University of Basel,Switzerland,2014,47.560253,7.5826,international_students,0.24
+977,74,Utrecht University,Netherlands,2014,52.0902,5.1226,international_students,0.07
+978,76,Nanyang Technological University,Singapore,2014,1.3483,103.6831,international_students,0.33
+979,77,Wageningen University and Research Center,Netherlands,2014,51.9846,5.6658,international_students,0.21
+980,78,University of Pittsburgh,United States of America,2014,40.444353,-79.960835,international_students,0.1
+981,79,University of Bristol,United Kingdom,2014,51.458417,-2.602979,international_students,0.25
+982,80,Durham University,United Kingdom,2014,54.764986,-1.578203,international_students,0.24
+983,80,Emory University,United States of America,2014,33.792519,-84.323999,international_students,0.18
+984,80,Tufts University,United States of America,2014,42.407484000000004,-71.119023,international_students,0.14
+985,83,Michigan State University,United States of America,2014,42.7018,-84.4822,international_students,0.15
+986,83,University of Amsterdam,Netherlands,2014,52.3558,4.9557,international_students,0.11
+987,85,Ghent University,Belgium,2014,51.0466,3.7279,international_students,0.09
+988,86,Free University of Berlin,Germany,2014,52.4525,13.2897,international_students,0.2
+989,87,Technical University of Munich,Germany,2014,48.1497,11.5679,international_students,0.2
+990,88,Case Western Reserve University,United States of America,2014,41.504341,-81.608384,international_students,0.17
+991,88,Vanderbilt University,United States of America,2014,36.144703,-86.802655,international_students,0.1
+992,90,University of Notre Dame,United States of America,2014,41.705572,-86.235339,international_students,0.1
+993,91,Monash University,Australia,2014,-37.876823,145.045837,international_students,0.36
+994,92,McMaster University,Canada,2014,43.260878999999996,-79.919225,international_students,0.15
+995,93,"University of California, Irvine",United States of America,2014,33.640495,-117.844296,international_students,0.16
+996,94,Humboldt University of Berlin,Germany,2014,52.5179,13.3937,international_students,0.16
+997,95,University of Rochester,United States of America,2014,43.1306,-77.626,international_students,0.26
+998,96,Pierre and Marie Curie University,France,2014,48.8471,2.3575,international_students,0.18
+999,97,University of Colorado Boulder,United States of America,2014,40.007581,-105.265942,international_students,0.08
+1000,98,Maastricht University,Netherlands,2014,50.8471,5.6864,international_students,0.48
+1001,98,University of Groningen,Netherlands,2014,53.2193,6.563,international_students,0.12
+1002,100,University of Helsinki,Finland,2014,60.1726,24.951,international_students,0.06
+1003,100,University of York,United Kingdom,2014,53.945533,-1.056167,international_students,0.0
+1004,1,California Institute of Technology,United States of America,2015,34.137658,-118.12526899999999,international_students,0.27
+1005,2,Harvard University,United States of America,2015,42.380098,-71.116629,international_students,0.25
+1006,3,University of Oxford,United Kingdom,2015,51.756634000000005,-1.254704,international_students,0.34
+1007,4,Stanford University,United States of America,2015,37.427475,-122.169719,international_students,0.22
+1008,5,University of Cambridge,United Kingdom,2015,52.204267,0.114908,international_students,0.34
+1009,6,Massachusetts Institute of Technology,United States of America,2015,42.360091,-71.09416,international_students,0.33
+1010,7,Princeton University,United States of America,2015,40.343989,-74.651448,international_students,0.27
+1011,8,"University of California, Berkeley",United States of America,2015,37.871899,-122.25854,international_students,0.15
+1012,9,Imperial College London,United Kingdom,2015,51.4988,-0.174877,international_students,0.51
+1013,9,Yale University,United States of America,2015,41.316324,-72.92234300000001,international_students,0.2
+1014,11,University of Chicago,United States of America,2015,41.788608,-87.598713,international_students,0.21
+1015,12,"University of California, Los Angeles",United States of America,2015,34.068921,-118.445181,international_students,0.15
+1016,13,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2015,47.376313,8.54767,international_students,0.37
+1017,14,Columbia University,United States of America,2015,40.807536,-73.96257299999999,international_students,0.28
+1018,15,Johns Hopkins University,United States of America,2015,39.329901,-76.620518,international_students,0.23
+1019,16,University of Pennsylvania,United States of America,2015,-75.193214,-75.193214,international_students,0.2
+1020,17,University of Michigan,United States of America,2015,42.278044,-83.738224,international_students,0.16
+1021,18,Duke University,United States of America,2015,36.001426,-78.938229,international_students,0.17
+1022,19,Cornell University,United States of America,2015,42.453449,-76.47350300000001,international_students,0.19
+1023,20,University of Toronto,Canada,2015,43.662892,-79.395656,international_students,0.15
+1024,21,Northwestern University,United States of America,2015,42.056459000000004,-87.675267,international_students,0.15
+1025,22,University College London,United Kingdom,2015,51.524559,-0.13404000000000002,international_students,0.46
+1026,23,University of Tokyo,Japan,2015,35.712677,139.761989,international_students,0.1
+1027,24,Carnegie Mellon University,United States of America,2015,40.443466,-79.943457,international_students,0.35
+1028,25,National University of Singapore,Singapore,2015,1.296643,103.776394,international_students,0.34
+1029,26,University of Washington,United States of America,2015,47.655335,-122.30351999999999,international_students,0.13
+1030,27,Georgia Institute of Technology,United States of America,2015,33.775618,-84.39628499999999,international_students,0.26
+1031,28,University of Texas at Austin,United States of America,2015,30.2849,-97.7341,international_students,0.09
+1032,29,LMU Munich,Germany,2015,48.150942,11.582443,international_students,0.13
+1033,29,University of Illinois at Urbana-Champaign,United States of America,2015,40.101952000000004,-88.227161,international_students,0.2
+1034,29,University of Wisconsin-Madison,United States of America,2015,43.0766,-89.4125,international_students,0.11
+1035,32,University of British Columbia,Canada,2015,49.260605,-123.245994,international_students,0.25
+1036,33,University of Melbourne,Australia,2015,-37.796369,144.961174,international_students,0.35
+1037,34,London School of Economics and Political Science,United Kingdom,2015,51.514408,-0.117377,international_students,0.0
+1038,34,École Polytechnique Fédérale de Lausanne,Switzerland,2015,46.519056,6.566758,international_students,0.54
+1039,36,University of Edinburgh,United Kingdom,2015,55.944516,-3.189241,international_students,0.36
+1040,37,"University of California, Santa Barbara",United States of America,2015,34.413963,-119.848947,international_students,0.11
+1041,38,New York University,United States of America,2015,40.729513,-73.996461,international_students,0.19
+1042,39,McGill University,Canada,2015,45.504785,-73.577151,international_students,0.23
+1043,40,King’s College London,United Kingdom,2015,51.511486,-0.115997,international_students,0.37
+1044,41,"University of California, San Diego",United States of America,2015,32.88006,-117.23401399999999,international_students,0.11
+1045,42,Washington University in St Louis,United States of America,2015,38.648789,-90.310796,international_students,0.17
+1046,43,University of Hong Kong,Hong Kong,2015,22.282999,114.13708500000001,international_students,0.38
+1047,44,Karolinska Institute,Sweden,2015,59.348147999999995,18.023657999999998,international_students,0.22
+1048,45,Australian National University,Australia,2015,-35.2777,149.118527,international_students,0.35
+1049,46,University of Minnesota,United States of America,2015,44.97399,-93.22772900000001,international_students,0.13
+1050,46,University of North Carolina at Chapel Hill,United States of America,2015,35.904912,-79.046913,international_students,0.08
+1051,48,Peking University,China,2015,39.986913,116.305874,international_students,0.14
+1052,49,Tsinghua University,China,2015,39.999666999999995,116.326444,international_students,0.1
+1053,50,Seoul National University,South Korea,2015,37.4599,126.9519,international_students,0.1
+1054,51,Hong Kong University of Science and Technology,Hong Kong,2015,22.3364,114.26546599999999,international_students,0.36
+1055,52,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2015,36.369392,127.364025,international_students,0.09
+1056,52,University of Manchester,United Kingdom,2015,53.46685,-2.233884,international_students,0.34
+1057,54,Brown University,United States of America,2015,41.826772,-71.402548,international_students,0.19
+1058,55,KU Leuven,Belgium,2015,50.878,4.7003,international_students,0.18
+1059,55,"University of California, Davis",United States of America,2015,38.538232,-121.76171200000002,international_students,0.13
+1060,57,Boston University,United States of America,2015,42.3505,-71.105399,international_students,0.17
+1061,58,Pennsylvania State University,United States of America,2015,40.7982,-77.8599,international_students,0.12
+1062,59,Kyoto University,Japan,2015,35.026244,135.780822,international_students,0.07
+1063,60,University of Sydney,Australia,2015,-33.888584,151.187347,international_students,0.28
+1064,61,Nanyang Technological University,Singapore,2015,1.3483,103.6831,international_students,0.33
+1065,61,École Polytechnique,France,2015,48.714296999999995,2.211292,international_students,0.3
+1066,63,Scuola Normale Superiore di Pisa,Italy,2015,43.7196,10.4003,international_students,0.05
+1067,64,Leiden University,Netherlands,2015,52.1571,4.4852,international_students,0.1
+1068,65,The University of Queensland,Australia,2015,-27.495431,153.01203,international_students,0.27
+1069,66,Pohang University of Science and Technology,South Korea,2015,36.013886,129.323184,international_students,0.04
+1070,67,University of Göttingen,Germany,2015,51.540812,9.9374,international_students,0.12
+1071,68,Ohio State University,United States of America,2015,40.01419,-83.030914,international_students,0.12
+1072,69,Rice University,United States of America,2015,29.717394,-95.401831,international_students,0.26
+1073,70,Heidelberg University,Germany,2015,41.114304,-83.16640699999999,international_students,0.17
+1074,71,Delft University of Technology,Netherlands,2015,52.0008,4.3714,international_students,0.25
+1075,72,Erasmus University Rotterdam,Netherlands,2015,51.9175,4.5256,international_students,0.18
+1076,73,Wageningen University and Research Center,Netherlands,2015,51.9846,5.6658,international_students,0.21
+1077,74,University of Bristol,United Kingdom,2015,51.458417,-2.602979,international_students,0.25
+1078,75,University of Basel,Switzerland,2015,47.560253,7.5826,international_students,0.24
+1079,75,University of Southern California,United States of America,2015,34.022352000000005,-118.285117,international_students,0.2
+1080,77,University of Amsterdam,Netherlands,2015,52.3558,4.9557,international_students,0.11
+1081,78,École Normale Supérieure,France,2015,48.842206,2.345169,international_students,0.2
+1082,79,Utrecht University,Netherlands,2015,52.0902,5.1226,international_students,0.07
+1083,80,Humboldt University of Berlin,Germany,2015,52.5179,13.3937,international_students,0.16
+1084,81,Free University of Berlin,Germany,2015,52.4525,13.2897,international_students,0.2
+1085,82,Michigan State University,United States of America,2015,42.7018,-84.4822,international_students,0.15
+1086,83,Durham University,United Kingdom,2015,54.764986,-1.578203,international_students,0.24
+1087,83,Monash University,Australia,2015,-37.876823,145.045837,international_students,0.36
+1088,85,Middle East Technical University,Turkey,2015,39.8921,32.7786,international_students,0.07
+1089,86,University of Arizona,United States of America,2015,32.231885,-110.95010900000001,international_students,0.08
+1090,86,University of Notre Dame,United States of America,2015,41.705572,-86.235339,international_students,0.1
+1091,88,Tufts University,United States of America,2015,42.407484000000004,-71.119023,international_students,0.14
+1092,88,"University of California, Irvine",United States of America,2015,33.640495,-117.844296,international_students,0.16
+1093,90,Ghent University,Belgium,2015,51.0466,3.7279,international_students,0.09
+1094,91,University of Massachusetts,United States of America,2015,42.391157,-72.526712,international_students,0.11
+1095,91,University of Pittsburgh,United States of America,2015,40.444353,-79.960835,international_students,0.1
+1096,93,Emory University,United States of America,2015,33.792519,-84.323999,international_students,0.18
+1097,94,McMaster University,Canada,2015,43.260878999999996,-79.919225,international_students,0.15
+1098,94,University of Glasgow,United Kingdom,2015,55.8721,-4.2882,international_students,0.29
+1099,96,Vanderbilt University,United States of America,2015,36.144703,-86.802655,international_students,0.1
+1100,97,University of Colorado Boulder,United States of America,2015,40.007581,-105.265942,international_students,0.08
+1101,98,Stockholm University,Sweden,2015,59.3628,18.0593,international_students,0.08
+1102,98,Technical University of Munich,Germany,2015,48.1497,11.5679,international_students,0.2
+1103,98,Uppsala University,Sweden,2015,59.8509,17.63,international_students,0.12
+1104,1,California Institute of Technology,United States of America,2016,34.137658,-118.12526899999999,international_students,0.27
+1105,2,University of Oxford,United Kingdom,2016,51.756634000000005,-1.254704,international_students,0.34
+1106,3,Stanford University,United States of America,2016,37.427475,-122.169719,international_students,0.22
+1107,4,University of Cambridge,United Kingdom,2016,52.204267,0.114908,international_students,0.34
+1108,5,Massachusetts Institute of Technology,United States of America,2016,42.360091,-71.09416,international_students,0.33
+1109,6,Harvard University,United States of America,2016,42.380098,-71.116629,international_students,0.25
+1110,7,Princeton University,United States of America,2016,40.343989,-74.651448,international_students,0.27
+1111,8,Imperial College London,United Kingdom,2016,51.4988,-0.174877,international_students,0.51
+1112,9,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2016,47.376313,8.54767,international_students,0.37
+1113,10,University of Chicago,United States of America,2016,41.788608,-87.598713,international_students,0.21
+1114,11,Johns Hopkins University,United States of America,2016,39.329901,-76.620518,international_students,0.23
+1115,12,Yale University,United States of America,2016,41.316324,-72.92234300000001,international_students,0.2
+1116,13,"University of California, Berkeley",United States of America,2016,37.871899,-122.25854,international_students,0.15
+1117,14,University College London,United Kingdom,2016,51.524559,-0.13404000000000002,international_students,0.46
+1118,15,Columbia University,United States of America,2016,40.807536,-73.96257299999999,international_students,0.28
+1119,16,"University of California, Los Angeles",United States of America,2016,34.068921,-118.445181,international_students,0.15
+1120,17,University of Pennsylvania,United States of America,2016,-75.193214,-75.193214,international_students,0.2
+1121,18,Cornell University,United States of America,2016,42.453449,-76.47350300000001,international_students,0.19
+1122,19,University of Toronto,Canada,2016,43.662892,-79.395656,international_students,0.15
+1123,20,Duke University,United States of America,2016,36.001426,-78.938229,international_students,0.17
+1124,21,University of Michigan,United States of America,2016,42.278044,-83.738224,international_students,0.16
+1125,22,Carnegie Mellon University,United States of America,2016,40.443466,-79.943457,international_students,0.35
+1126,23,London School of Economics and Political Science,United Kingdom,2016,51.514408,-0.117377,international_students,0.0
+1127,24,University of Edinburgh,United Kingdom,2016,55.944516,-3.189241,international_students,0.36
+1128,25,Northwestern University,United States of America,2016,42.056459000000004,-87.675267,international_students,0.15
+1129,26,National University of Singapore,Singapore,2016,1.296643,103.776394,international_students,0.34
+1130,27,King’s College London,United Kingdom,2016,51.511486,-0.115997,international_students,0.37
+1131,28,Karolinska Institute,Sweden,2016,59.348147999999995,18.023657999999998,international_students,0.22
+1132,29,LMU Munich,Germany,2016,48.150942,11.582443,international_students,0.13
+1133,30,New York University,United States of America,2016,40.729513,-73.996461,international_students,0.19
+1134,31,École Polytechnique Fédérale de Lausanne,Switzerland,2016,46.519056,6.566758,international_students,0.54
+1135,32,University of Washington,United States of America,2016,47.655335,-122.30351999999999,international_students,0.13
+1136,33,University of Melbourne,Australia,2016,-37.796369,144.961174,international_students,0.35
+1137,34,University of British Columbia,Canada,2016,49.260605,-123.245994,international_students,0.25
+1138,35,KU Leuven,Belgium,2016,50.878,4.7003,international_students,0.18
+1139,36,University of Illinois at Urbana-Champaign,United States of America,2016,40.101952000000004,-88.227161,international_students,0.2
+1140,37,Heidelberg University,Germany,2016,41.114304,-83.16640699999999,international_students,0.17
+1141,38,McGill University,Canada,2016,45.504785,-73.577151,international_students,0.23
+1142,39,"University of California, San Diego",United States of America,2016,32.88006,-117.23401399999999,international_students,0.11
+1143,39,"University of California, Santa Barbara",United States of America,2016,34.413963,-119.848947,international_students,0.11
+1144,41,Georgia Institute of Technology,United States of America,2016,33.775618,-84.39628499999999,international_students,0.26
+1145,42,Peking University,China,2016,39.986913,116.305874,international_students,0.14
+1146,43,University of Tokyo,Japan,2016,35.712677,139.761989,international_students,0.1
+1147,44,"University of California, Davis",United States of America,2016,38.538232,-121.76171200000002,international_students,0.13
+1148,44,University of Hong Kong,Hong Kong,2016,22.282999,114.13708500000001,international_students,0.38
+1149,46,University of Texas at Austin,United States of America,2016,30.2849,-97.7341,international_students,0.09
+1150,47,Tsinghua University,China,2016,39.999666999999995,116.326444,international_students,0.1
+1151,47,Wageningen University and Research Center,Netherlands,2016,51.9846,5.6658,international_students,0.21
+1152,49,Humboldt University of Berlin,Germany,2016,52.5179,13.3937,international_students,0.16
+1153,50,University of Wisconsin-Madison,United States of America,2016,43.0766,-89.4125,international_students,0.11
+1154,51,Brown University,United States of America,2016,41.826772,-71.402548,international_students,0.19
+1155,52,Australian National University,Australia,2016,-35.2777,149.118527,international_students,0.35
+1156,53,Technical University of Munich,Germany,2016,48.1497,11.5679,international_students,0.2
+1157,54,École Normale Supérieure,France,2016,48.842206,2.345169,international_students,0.2
+1158,55,Nanyang Technological University,Singapore,2016,1.3483,103.6831,international_students,0.33
+1159,56,University of Manchester,United Kingdom,2016,53.46685,-2.233884,international_students,0.34
+1160,56,University of Sydney,Australia,2016,-33.888584,151.187347,international_students,0.28
+1161,58,University of Amsterdam,Netherlands,2016,52.3558,4.9557,international_students,0.11
+1162,59,Hong Kong University of Science and Technology,Hong Kong,2016,22.3364,114.26546599999999,international_students,0.36
+1163,60,The University of Queensland,Australia,2016,-27.495431,153.01203,international_students,0.27
+1164,60,Washington University in St Louis,United States of America,2016,38.648789,-90.310796,international_students,0.17
+1165,62,Utrecht University,Netherlands,2016,52.0902,5.1226,international_students,0.07
+1166,63,University of North Carolina at Chapel Hill,United States of America,2016,35.904912,-79.046913,international_students,0.08
+1167,64,Boston University,United States of America,2016,42.3505,-71.105399,international_students,0.17
+1168,65,Delft University of Technology,Netherlands,2016,52.0008,4.3714,international_students,0.25
+1169,65,University of Minnesota,United States of America,2016,44.97399,-93.22772900000001,international_students,0.13
+1170,67,Leiden University,Netherlands,2016,52.1571,4.4852,international_students,0.1
+1171,68,University of Southern California,United States of America,2016,34.022352000000005,-118.285117,international_students,0.2
+1172,69,University of Bristol,United Kingdom,2016,51.458417,-2.602979,international_students,0.25
+1173,70,Durham University,United Kingdom,2016,54.764986,-1.578203,international_students,0.24
+1174,71,Erasmus University Rotterdam,Netherlands,2016,51.9175,4.5256,international_students,0.18
+1175,72,Free University of Berlin,Germany,2016,52.4525,13.2897,international_students,0.2
+1176,73,Monash University,Australia,2016,-37.876823,145.045837,international_students,0.36
+1177,74,University of Groningen,Netherlands,2016,53.2193,6.563,international_students,0.12
+1178,75,Pennsylvania State University,United States of America,2016,40.7982,-77.8599,international_students,0.12
+1179,76,University of Glasgow,United Kingdom,2016,55.8721,-4.2882,international_students,0.29
+1180,76,University of Helsinki,Finland,2016,60.1726,24.951,international_students,0.06
+1181,78,University of Tübingen,Germany,2016,48.5295,9.0438,international_students,0.12
+1182,79,University of Pittsburgh,United States of America,2016,40.444353,-79.960835,international_students,0.1
+1183,80,University of Warwick,United Kingdom,2016,52.3793,-1.5615,international_students,0.37
+1184,81,Uppsala University,Sweden,2016,59.8509,17.63,international_students,0.12
+1185,82,University of Copenhagen,Denmark,2016,55.6802,12.5724,international_students,0.19
+1186,82,University of New South Wales,Australia,2016,-33.9173,151.2313,international_students,0.33
+1187,84,University of Freiburg,Germany,2016,47.9935,7.8459,international_students,0.16
+1188,85,Seoul National University,South Korea,2016,37.4599,126.9519,international_students,0.1
+1189,86,University of St Andrews,United Kingdom,2016,56.3417,-2.7928,international_students,0.47
+1190,87,Vanderbilt University,United States of America,2016,36.144703,-86.802655,international_students,0.1
+1191,88,Kyoto University,Japan,2016,35.026244,135.780822,international_students,0.07
+1192,88,Maastricht University,Netherlands,2016,50.8471,5.6864,international_students,0.48
+1193,90,Emory University,United States of America,2016,33.792519,-84.323999,international_students,0.18
+1194,90,Lund University,Sweden,2016,55.711948,13.203493,international_students,0.15
+1195,90,Ohio State University,United States of America,2016,40.01419,-83.030914,international_students,0.12
+1196,93,University of Exeter,United Kingdom,2016,50.7371,-3.5351,international_students,0.28
+1197,94,Georgetown University,United States of America,2016,38.9076,-77.0723,international_students,0.14
+1198,94,McMaster University,Canada,2016,43.260878999999996,-79.919225,international_students,0.15
+1199,94,University of Bonn,Germany,2016,50.7268,7.0865,international_students,0.13
+1200,97,University of Sheffield,United Kingdom,2016,53.3809,-1.4879,international_students,0.31
+1201,98,Queen Mary University of London,United Kingdom,2016,51.5241,-0.0404,international_students,0.4
+1202,99,Michigan State University,United States of America,2016,42.7018,-84.4822,international_students,0.15
+1203,99,University of Göttingen,Germany,2016,51.540812,9.9374,international_students,0.12
+1204,1,Harvard University,United States of America,2011,42.380098,-71.116629,female_male_ratio,0.0
+1205,2,California Institute of Technology,United States of America,2011,34.137658,-118.12526899999999,female_male_ratio,0.33
+1206,3,Massachusetts Institute of Technology,United States of America,2011,42.360091,-71.09416,female_male_ratio,0.37
+1207,4,Stanford University,United States of America,2011,37.427475,-122.169719,female_male_ratio,0.42
+1208,5,Princeton University,United States of America,2011,40.343989,-74.651448,female_male_ratio,0.45
+1209,6,University of Cambridge,United Kingdom,2011,52.204267,0.114908,female_male_ratio,0.46
+1210,6,University of Oxford,United Kingdom,2011,51.756634000000005,-1.254704,female_male_ratio,0.46
+1211,8,"University of California, Berkeley",United States of America,2011,37.871899,-122.25854,female_male_ratio,0.5
+1212,9,Imperial College London,United Kingdom,2011,51.4988,-0.174877,female_male_ratio,0.37
+1213,10,Yale University,United States of America,2011,41.316324,-72.92234300000001,female_male_ratio,0.5
+1214,11,"University of California, Los Angeles",United States of America,2011,34.068921,-118.445181,female_male_ratio,0.52
+1215,12,University of Chicago,United States of America,2011,41.788608,-87.598713,female_male_ratio,0.42
+1216,13,Johns Hopkins University,United States of America,2011,39.329901,-76.620518,female_male_ratio,0.5
+1217,14,Cornell University,United States of America,2011,42.453449,-76.47350300000001,female_male_ratio,0.48
+1218,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2011,47.376313,8.54767,female_male_ratio,0.31
+1219,15,University of Michigan,United States of America,2011,42.278044,-83.738224,female_male_ratio,0.48
+1220,17,University of Toronto,Canada,2011,43.662892,-79.395656,female_male_ratio,0.0
+1221,18,Columbia University,United States of America,2011,40.807536,-73.96257299999999,female_male_ratio,0.0
+1222,19,University of Pennsylvania,United States of America,2011,-75.193214,-75.193214,female_male_ratio,0.51
+1223,20,Carnegie Mellon University,United States of America,2011,40.443466,-79.943457,female_male_ratio,0.39
+1224,21,University of Hong Kong,Hong Kong,2011,22.282999,114.13708500000001,female_male_ratio,0.53
+1225,22,University College London,United Kingdom,2011,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1226,23,University of Washington,United States of America,2011,47.655335,-122.30351999999999,female_male_ratio,0.53
+1227,24,Duke University,United States of America,2011,36.001426,-78.938229,female_male_ratio,0.49
+1228,25,Northwestern University,United States of America,2011,42.056459000000004,-87.675267,female_male_ratio,0.48
+1229,26,University of Tokyo,Japan,2011,35.712677,139.761989,female_male_ratio,0.0
+1230,27,Georgia Institute of Technology,United States of America,2011,33.775618,-84.39628499999999,female_male_ratio,0.31
+1231,28,Pohang University of Science and Technology,South Korea,2011,36.013886,129.323184,female_male_ratio,0.2
+1232,29,"University of California, Santa Barbara",United States of America,2011,34.413963,-119.848947,female_male_ratio,0.52
+1233,30,University of British Columbia,Canada,2011,49.260605,-123.245994,female_male_ratio,0.54
+1234,30,University of North Carolina at Chapel Hill,United States of America,2011,35.904912,-79.046913,female_male_ratio,0.58
+1235,32,"University of California, San Diego",United States of America,2011,32.88006,-117.23401399999999,female_male_ratio,0.48
+1236,33,University of Illinois at Urbana-Champaign,United States of America,2011,40.101952000000004,-88.227161,female_male_ratio,0.47
+1237,34,National University of Singapore,Singapore,2011,1.296643,103.776394,female_male_ratio,0.49
+1238,35,McGill University,Canada,2011,45.504785,-73.577151,female_male_ratio,0.56
+1239,36,University of Melbourne,Australia,2011,-37.796369,144.961174,female_male_ratio,0.55
+1240,37,Peking University,China,2011,39.986913,116.305874,female_male_ratio,0.0
+1241,38,Washington University in St Louis,United States of America,2011,38.648789,-90.310796,female_male_ratio,0.0
+1242,39,École Polytechnique,France,2011,48.714296999999995,2.211292,female_male_ratio,0.18
+1243,40,University of Edinburgh,United Kingdom,2011,55.944516,-3.189241,female_male_ratio,0.58
+1244,41,Hong Kong University of Science and Technology,Hong Kong,2011,22.3364,114.26546599999999,female_male_ratio,0.0
+1245,42,École Normale Supérieure,France,2011,48.842206,2.345169,female_male_ratio,0.46
+1246,43,Australian National University,Australia,2011,-35.2777,149.118527,female_male_ratio,0.52
+1247,43,Karolinska Institute,Sweden,2011,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1248,43,University of Göttingen,Germany,2011,51.540812,9.9374,female_male_ratio,0.51
+1249,43,University of Wisconsin,United States of America,2011,43.076592,-89.412487,female_male_ratio,0.0
+1250,47,Rice University,United States of America,2011,29.717394,-95.401831,female_male_ratio,0.44
+1251,48,École Polytechnique Fédérale de Lausanne,Switzerland,2011,46.519056,6.566758,female_male_ratio,0.27
+1252,49,"University of California, Irvine",United States of America,2011,33.640495,-117.844296,female_male_ratio,0.52
+1253,49,University of Science and Technology of China,China,2011,31.838697999999997,117.26217,female_male_ratio,0.0
+1254,51,Vanderbilt University,United States of America,2011,36.144703,-86.802655,female_male_ratio,0.52
+1255,52,University of Minnesota,United States of America,2011,44.97399,-93.22772900000001,female_male_ratio,0.52
+1256,53,Tufts University,United States of America,2011,42.407484000000004,-71.119023,female_male_ratio,0.54
+1257,54,"University of California, Davis",United States of America,2011,38.538232,-121.76171200000002,female_male_ratio,0.54
+1258,55,Brown University,United States of America,2011,41.826772,-71.402548,female_male_ratio,0.0
+1259,56,University of Massachusetts,United States of America,2011,42.391157,-72.526712,female_male_ratio,0.49
+1260,57,Kyoto University,Japan,2011,35.026244,135.780822,female_male_ratio,0.0
+1261,58,Tsinghua University,China,2011,39.999666999999995,116.326444,female_male_ratio,0.32
+1262,59,Boston University,United States of America,2011,42.3505,-71.105399,female_male_ratio,0.58
+1263,60,New York University,United States of America,2011,40.729513,-73.996461,female_male_ratio,0.55
+1264,61,Emory University,United States of America,2011,33.792519,-84.323999,female_male_ratio,0.56
+1265,61,LMU Munich,Germany,2011,48.150942,11.582443,female_male_ratio,0.62
+1266,63,University of Notre Dame,United States of America,2011,41.705572,-86.235339,female_male_ratio,0.44
+1267,64,University of Pittsburgh,United States of America,2011,40.444353,-79.960835,female_male_ratio,0.51
+1268,65,Case Western Reserve University,United States of America,2011,41.504341,-81.608384,female_male_ratio,0.48
+1269,66,Ohio State University,United States of America,2011,40.01419,-83.030914,female_male_ratio,0.49
+1270,67,University of Colorado Boulder,United States of America,2011,40.007581,-105.265942,female_male_ratio,0.45
+1271,68,University of Bristol,United Kingdom,2011,51.458417,-2.602979,female_male_ratio,0.53
+1272,68,"University of California, Santa Cruz",United States of America,2011,36.991386,-122.060872,female_male_ratio,0.53
+1273,68,Yeshiva University,United States of America,2011,40.85066,-73.929866,female_male_ratio,0.53
+1274,71,University of Sydney,Australia,2011,-33.888584,151.187347,female_male_ratio,0.57
+1275,72,University of Virginia,United States of America,2011,38.033553000000005,-78.507977,female_male_ratio,0.52
+1276,73,University of Adelaide,Australia,2011,-34.920603,138.60622800000002,female_male_ratio,0.48
+1277,73,University of Southern California,United States of America,2011,34.022352000000005,-118.285117,female_male_ratio,0.52
+1278,75,William & Mary,United States of America,2011,37.271674,-76.713378,female_male_ratio,0.54
+1279,76,Trinity College Dublin,Republic of Ireland,2011,53.343793000000005,-6.2545720000000005,female_male_ratio,0.57
+1280,77,King’s College London,United Kingdom,2011,51.511486,-0.115997,female_male_ratio,0.61
+1281,78,Stony Brook University,United States of America,2011,40.912376,-73.123389,female_male_ratio,0.5
+1282,79,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2011,36.369392,127.364025,female_male_ratio,0.2
+1283,79,University of Sussex,United Kingdom,2011,50.867090000000005,-0.08791399999999999,female_male_ratio,0.54
+1284,81,The University of Queensland,Australia,2011,-27.495431,153.01203,female_male_ratio,0.53
+1285,81,University of York,United Kingdom,2011,53.945533,-1.056167,female_male_ratio,0.0
+1286,83,Heidelberg University,Germany,2011,41.114304,-83.16640699999999,female_male_ratio,0.55
+1287,83,University of Utah,United States of America,2011,40.764936999999996,-111.842102,female_male_ratio,0.45
+1288,85,Durham University,United Kingdom,2011,54.764986,-1.578203,female_male_ratio,0.54
+1289,86,London School of Economics and Political Science,United Kingdom,2011,51.514408,-0.117377,female_male_ratio,0.0
+1290,87,University of Manchester,United Kingdom,2011,53.46685,-2.233884,female_male_ratio,0.52
+1291,88,"Royal Holloway, University of London",United Kingdom,2011,51.425672999999996,-0.563063,female_male_ratio,0.57
+1292,89,Lund University,Sweden,2011,55.711948,13.203493,female_male_ratio,0.0
+1293,90,University of Southampton,United Kingdom,2011,50.935742,-1.3966379999999998,female_male_ratio,0.53
+1294,90,University of Zurich,Switzerland,2011,47.374322,8.550981,female_male_ratio,0.57
+1295,90,Wake Forest University,United States of America,2011,36.13525,-80.276342,female_male_ratio,0.51
+1296,93,McMaster University,Canada,2011,43.260878999999996,-79.919225,female_male_ratio,0.53
+1297,94,University College Dublin,Republic of Ireland,2011,53.30534399999999,-6.220654,female_male_ratio,0.0
+1298,95,George Washington University,United States of America,2011,38.899715,-77.048599,female_male_ratio,0.56
+1299,95,University of Arizona,United States of America,2011,32.231885,-110.95010900000001,female_male_ratio,0.52
+1300,95,University of Basel,Switzerland,2011,47.560253,7.5826,female_male_ratio,0.54
+1301,98,"University of Maryland, College Park",United States of America,2011,38.986918,-76.942554,female_male_ratio,0.48
+1302,99,Dartmouth College,United States of America,2011,43.704440999999996,-72.28869300000001,female_male_ratio,0.47
+1303,100,École Normale Supérieure de Lyon,France,2011,45.729834999999994,4.826911,female_male_ratio,0.49
+1304,1,California Institute of Technology,United States of America,2012,34.137658,-118.12526899999999,female_male_ratio,0.33
+1305,2,Harvard University,United States of America,2012,42.380098,-71.116629,female_male_ratio,0.0
+1306,2,Stanford University,United States of America,2012,37.427475,-122.169719,female_male_ratio,0.42
+1307,4,University of Oxford,United Kingdom,2012,51.756634000000005,-1.254704,female_male_ratio,0.46
+1308,5,Princeton University,United States of America,2012,40.343989,-74.651448,female_male_ratio,0.45
+1309,6,University of Cambridge,United Kingdom,2012,52.204267,0.114908,female_male_ratio,0.46
+1310,7,Massachusetts Institute of Technology,United States of America,2012,42.360091,-71.09416,female_male_ratio,0.37
+1311,8,Imperial College London,United Kingdom,2012,51.4988,-0.174877,female_male_ratio,0.37
+1312,9,University of Chicago,United States of America,2012,41.788608,-87.598713,female_male_ratio,0.42
+1313,10,"University of California, Berkeley",United States of America,2012,37.871899,-122.25854,female_male_ratio,0.5
+1314,11,Yale University,United States of America,2012,41.316324,-72.92234300000001,female_male_ratio,0.5
+1315,12,Columbia University,United States of America,2012,40.807536,-73.96257299999999,female_male_ratio,0.0
+1316,13,"University of California, Los Angeles",United States of America,2012,34.068921,-118.445181,female_male_ratio,0.52
+1317,14,Johns Hopkins University,United States of America,2012,39.329901,-76.620518,female_male_ratio,0.5
+1318,15,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2012,47.376313,8.54767,female_male_ratio,0.31
+1319,16,University of Pennsylvania,United States of America,2012,-75.193214,-75.193214,female_male_ratio,0.51
+1320,17,University College London,United Kingdom,2012,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1321,18,University of Michigan,United States of America,2012,42.278044,-83.738224,female_male_ratio,0.48
+1322,19,University of Toronto,Canada,2012,43.662892,-79.395656,female_male_ratio,0.0
+1323,20,Cornell University,United States of America,2012,42.453449,-76.47350300000001,female_male_ratio,0.48
+1324,21,Carnegie Mellon University,United States of America,2012,40.443466,-79.943457,female_male_ratio,0.39
+1325,22,Duke University,United States of America,2012,36.001426,-78.938229,female_male_ratio,0.49
+1326,22,University of British Columbia,Canada,2012,49.260605,-123.245994,female_male_ratio,0.54
+1327,24,Georgia Institute of Technology,United States of America,2012,33.775618,-84.39628499999999,female_male_ratio,0.31
+1328,25,University of Washington,United States of America,2012,47.655335,-122.30351999999999,female_male_ratio,0.53
+1329,26,Northwestern University,United States of America,2012,42.056459000000004,-87.675267,female_male_ratio,0.48
+1330,27,University of Wisconsin-Madison,United States of America,2012,43.0766,-89.4125,female_male_ratio,0.51
+1331,28,McGill University,Canada,2012,45.504785,-73.577151,female_male_ratio,0.56
+1332,29,University of Texas at Austin,United States of America,2012,30.2849,-97.7341,female_male_ratio,0.51
+1333,30,University of Tokyo,Japan,2012,35.712677,139.761989,female_male_ratio,0.0
+1334,31,University of Illinois at Urbana-Champaign,United States of America,2012,40.101952000000004,-88.227161,female_male_ratio,0.47
+1335,32,Karolinska Institute,Sweden,2012,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1336,33,"University of California, San Diego",United States of America,2012,32.88006,-117.23401399999999,female_male_ratio,0.48
+1337,34,University of Hong Kong,Hong Kong,2012,22.282999,114.13708500000001,female_male_ratio,0.53
+1338,35,"University of California, Santa Barbara",United States of America,2012,34.413963,-119.848947,female_male_ratio,0.52
+1339,36,University of Edinburgh,United Kingdom,2012,55.944516,-3.189241,female_male_ratio,0.58
+1340,37,University of Melbourne,Australia,2012,-37.796369,144.961174,female_male_ratio,0.55
+1341,38,Australian National University,Australia,2012,-35.2777,149.118527,female_male_ratio,0.52
+1342,38,"University of California, Davis",United States of America,2012,38.538232,-121.76171200000002,female_male_ratio,0.54
+1343,40,National University of Singapore,Singapore,2012,1.296643,103.776394,female_male_ratio,0.49
+1344,41,Washington University in St Louis,United States of America,2012,38.648789,-90.310796,female_male_ratio,0.0
+1345,42,University of Minnesota,United States of America,2012,44.97399,-93.22772900000001,female_male_ratio,0.52
+1346,43,University of North Carolina at Chapel Hill,United States of America,2012,35.904912,-79.046913,female_male_ratio,0.58
+1347,44,New York University,United States of America,2012,40.729513,-73.996461,female_male_ratio,0.55
+1348,45,LMU Munich,Germany,2012,48.150942,11.582443,female_male_ratio,0.62
+1349,46,École Polytechnique Fédérale de Lausanne,Switzerland,2012,46.519056,6.566758,female_male_ratio,0.27
+1350,47,London School of Economics and Political Science,United Kingdom,2012,51.514408,-0.117377,female_male_ratio,0.0
+1351,48,University of Manchester,United Kingdom,2012,53.46685,-2.233884,female_male_ratio,0.52
+1352,49,Brown University,United States of America,2012,41.826772,-71.402548,female_male_ratio,0.0
+1353,49,Peking University,China,2012,39.986913,116.305874,female_male_ratio,0.0
+1354,51,Pennsylvania State University,United States of America,2012,40.7982,-77.8599,female_male_ratio,0.46
+1355,52,Kyoto University,Japan,2012,35.026244,135.780822,female_male_ratio,0.0
+1356,53,Pohang University of Science and Technology,South Korea,2012,36.013886,129.323184,female_male_ratio,0.2
+1357,54,Boston University,United States of America,2012,42.3505,-71.105399,female_male_ratio,0.58
+1358,55,University of Southern California,United States of America,2012,34.022352000000005,-118.285117,female_male_ratio,0.52
+1359,56,King’s College London,United Kingdom,2012,51.511486,-0.115997,female_male_ratio,0.61
+1360,57,Ohio State University,United States of America,2012,40.01419,-83.030914,female_male_ratio,0.49
+1361,58,University of Sydney,Australia,2012,-33.888584,151.187347,female_male_ratio,0.57
+1362,59,University of Pittsburgh,United States of America,2012,40.444353,-79.960835,female_male_ratio,0.51
+1363,59,École Normale Supérieure,France,2012,48.842206,2.345169,female_male_ratio,0.46
+1364,61,University of Zurich,Switzerland,2012,47.374322,8.550981,female_male_ratio,0.57
+1365,62,Hong Kong University of Science and Technology,Hong Kong,2012,22.3364,114.26546599999999,female_male_ratio,0.0
+1366,63,École Polytechnique,France,2012,48.714296999999995,2.211292,female_male_ratio,0.18
+1367,64,University of Massachusetts,United States of America,2012,42.391157,-72.526712,female_male_ratio,0.49
+1368,65,McMaster University,Canada,2012,43.260878999999996,-79.919225,female_male_ratio,0.53
+1369,66,University of Bristol,United Kingdom,2012,51.458417,-2.602979,female_male_ratio,0.53
+1370,67,KU Leuven,Belgium,2012,50.878,4.7003,female_male_ratio,0.54
+1371,68,Utrecht University,Netherlands,2012,52.0902,5.1226,female_male_ratio,0.59
+1372,69,University of Göttingen,Germany,2012,51.540812,9.9374,female_male_ratio,0.51
+1373,70,Vanderbilt University,United States of America,2012,36.144703,-86.802655,female_male_ratio,0.52
+1374,71,Tsinghua University,China,2012,39.999666999999995,116.326444,female_male_ratio,0.32
+1375,72,Rice University,United States of America,2012,29.717394,-95.401831,female_male_ratio,0.44
+1376,73,Heidelberg University,Germany,2012,41.114304,-83.16640699999999,female_male_ratio,0.55
+1377,74,The University of Queensland,Australia,2012,-27.495431,153.01203,female_male_ratio,0.53
+1378,75,Emory University,United States of America,2012,33.792519,-84.323999,female_male_ratio,0.56
+1379,75,Wageningen University and Research Center,Netherlands,2012,51.9846,5.6658,female_male_ratio,0.56
+1380,77,Tufts University,United States of America,2012,42.407484000000004,-71.119023,female_male_ratio,0.54
+1381,77,University of Colorado Boulder,United States of America,2012,40.007581,-105.265942,female_male_ratio,0.45
+1382,79,Leiden University,Netherlands,2012,52.1571,4.4852,female_male_ratio,0.59
+1383,80,Lund University,Sweden,2012,55.711948,13.203493,female_male_ratio,0.0
+1384,81,"Rutgers, the State University of New Jersey",United States of America,2012,40.4982,-74.4468,female_male_ratio,0.51
+1385,81,University of Rochester,United States of America,2012,43.1306,-77.626,female_male_ratio,0.49
+1386,83,Durham University,United Kingdom,2012,54.764986,-1.578203,female_male_ratio,0.54
+1387,84,Pierre and Marie Curie University,France,2012,48.8471,2.3575,female_male_ratio,0.48
+1388,85,University of St Andrews,United Kingdom,2012,56.3417,-2.7928,female_male_ratio,0.56
+1389,86,"University of California, Irvine",United States of America,2012,33.640495,-117.844296,female_male_ratio,0.52
+1390,87,Uppsala University,Sweden,2012,59.8509,17.63,female_male_ratio,0.57
+1391,88,Technical University of Munich,Germany,2012,48.1497,11.5679,female_male_ratio,0.33
+1392,89,University of Notre Dame,United States of America,2012,41.705572,-86.235339,female_male_ratio,0.44
+1393,90,Dartmouth College,United States of America,2012,43.704440999999996,-72.28869300000001,female_male_ratio,0.47
+1394,91,University of Helsinki,Finland,2012,60.1726,24.951,female_male_ratio,0.66
+1395,92,University of Amsterdam,Netherlands,2012,52.3558,4.9557,female_male_ratio,0.53
+1396,93,Case Western Reserve University,United States of America,2012,41.504341,-81.608384,female_male_ratio,0.48
+1397,94,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2012,36.369392,127.364025,female_male_ratio,0.2
+1398,94,"University of Maryland, College Park",United States of America,2012,38.986918,-76.942554,female_male_ratio,0.48
+1399,96,Michigan State University,United States of America,2012,42.7018,-84.4822,female_male_ratio,0.51
+1400,97,University of Arizona,United States of America,2012,32.231885,-110.95010900000001,female_male_ratio,0.52
+1401,98,Purdue University,United States of America,2012,40.4237,-86.9212,female_male_ratio,0.42
+1402,99,University of Sussex,United Kingdom,2012,50.867090000000005,-0.08791399999999999,female_male_ratio,0.54
+1403,100,University of Alberta,Canada,2012,53.5232,-113.5263,female_male_ratio,0.55
+1404,1,California Institute of Technology,United States of America,2013,34.137658,-118.12526899999999,female_male_ratio,0.33
+1405,2,Stanford University,United States of America,2013,37.427475,-122.169719,female_male_ratio,0.42
+1406,2,University of Oxford,United Kingdom,2013,51.756634000000005,-1.254704,female_male_ratio,0.46
+1407,4,Harvard University,United States of America,2013,42.380098,-71.116629,female_male_ratio,0.0
+1408,5,Massachusetts Institute of Technology,United States of America,2013,42.360091,-71.09416,female_male_ratio,0.37
+1409,6,Princeton University,United States of America,2013,40.343989,-74.651448,female_male_ratio,0.45
+1410,7,University of Cambridge,United Kingdom,2013,52.204267,0.114908,female_male_ratio,0.46
+1411,8,Imperial College London,United Kingdom,2013,51.4988,-0.174877,female_male_ratio,0.37
+1412,9,"University of California, Berkeley",United States of America,2013,37.871899,-122.25854,female_male_ratio,0.5
+1413,10,University of Chicago,United States of America,2013,41.788608,-87.598713,female_male_ratio,0.42
+1414,11,Yale University,United States of America,2013,41.316324,-72.92234300000001,female_male_ratio,0.5
+1415,12,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2013,47.376313,8.54767,female_male_ratio,0.31
+1416,13,"University of California, Los Angeles",United States of America,2013,34.068921,-118.445181,female_male_ratio,0.52
+1417,14,Columbia University,United States of America,2013,40.807536,-73.96257299999999,female_male_ratio,0.0
+1418,15,University of Pennsylvania,United States of America,2013,-75.193214,-75.193214,female_male_ratio,0.51
+1419,16,Johns Hopkins University,United States of America,2013,39.329901,-76.620518,female_male_ratio,0.5
+1420,17,University College London,United Kingdom,2013,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1421,18,Cornell University,United States of America,2013,42.453449,-76.47350300000001,female_male_ratio,0.48
+1422,19,Northwestern University,United States of America,2013,42.056459000000004,-87.675267,female_male_ratio,0.48
+1423,20,University of Michigan,United States of America,2013,42.278044,-83.738224,female_male_ratio,0.48
+1424,21,University of Toronto,Canada,2013,43.662892,-79.395656,female_male_ratio,0.0
+1425,22,Carnegie Mellon University,United States of America,2013,40.443466,-79.943457,female_male_ratio,0.39
+1426,23,Duke University,United States of America,2013,36.001426,-78.938229,female_male_ratio,0.49
+1427,24,University of Washington,United States of America,2013,47.655335,-122.30351999999999,female_male_ratio,0.53
+1428,25,Georgia Institute of Technology,United States of America,2013,33.775618,-84.39628499999999,female_male_ratio,0.31
+1429,25,University of Texas at Austin,United States of America,2013,30.2849,-97.7341,female_male_ratio,0.51
+1430,27,University of Tokyo,Japan,2013,35.712677,139.761989,female_male_ratio,0.0
+1431,28,University of Melbourne,Australia,2013,-37.796369,144.961174,female_male_ratio,0.55
+1432,29,National University of Singapore,Singapore,2013,1.296643,103.776394,female_male_ratio,0.49
+1433,30,University of British Columbia,Canada,2013,49.260605,-123.245994,female_male_ratio,0.54
+1434,31,University of Wisconsin-Madison,United States of America,2013,43.0766,-89.4125,female_male_ratio,0.51
+1435,32,University of Edinburgh,United Kingdom,2013,55.944516,-3.189241,female_male_ratio,0.58
+1436,33,University of Illinois at Urbana-Champaign,United States of America,2013,40.101952000000004,-88.227161,female_male_ratio,0.47
+1437,34,McGill University,Canada,2013,45.504785,-73.577151,female_male_ratio,0.56
+1438,35,"University of California, Santa Barbara",United States of America,2013,34.413963,-119.848947,female_male_ratio,0.52
+1439,35,University of Hong Kong,Hong Kong,2013,22.282999,114.13708500000001,female_male_ratio,0.53
+1440,37,Australian National University,Australia,2013,-35.2777,149.118527,female_male_ratio,0.52
+1441,38,"University of California, San Diego",United States of America,2013,32.88006,-117.23401399999999,female_male_ratio,0.48
+1442,39,London School of Economics and Political Science,United Kingdom,2013,51.514408,-0.117377,female_male_ratio,0.0
+1443,40,École Polytechnique Fédérale de Lausanne,Switzerland,2013,46.519056,6.566758,female_male_ratio,0.27
+1444,41,New York University,United States of America,2013,40.729513,-73.996461,female_male_ratio,0.55
+1445,42,Karolinska Institute,Sweden,2013,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1446,42,University of North Carolina at Chapel Hill,United States of America,2013,35.904912,-79.046913,female_male_ratio,0.58
+1447,44,"University of California, Davis",United States of America,2013,38.538232,-121.76171200000002,female_male_ratio,0.54
+1448,44,Washington University in St Louis,United States of America,2013,38.648789,-90.310796,female_male_ratio,0.0
+1449,46,Peking University,China,2013,39.986913,116.305874,female_male_ratio,0.0
+1450,47,University of Minnesota,United States of America,2013,44.97399,-93.22772900000001,female_male_ratio,0.52
+1451,48,LMU Munich,Germany,2013,48.150942,11.582443,female_male_ratio,0.62
+1452,49,University of Manchester,United Kingdom,2013,53.46685,-2.233884,female_male_ratio,0.52
+1453,50,Pohang University of Science and Technology,South Korea,2013,36.013886,129.323184,female_male_ratio,0.2
+1454,51,Brown University,United States of America,2013,41.826772,-71.402548,female_male_ratio,0.0
+1455,52,Tsinghua University,China,2013,39.999666999999995,116.326444,female_male_ratio,0.32
+1456,53,Ohio State University,United States of America,2013,40.01419,-83.030914,female_male_ratio,0.49
+1457,54,Boston University,United States of America,2013,42.3505,-71.105399,female_male_ratio,0.58
+1458,54,Kyoto University,Japan,2013,35.026244,135.780822,female_male_ratio,0.0
+1459,56,University of Southern California,United States of America,2013,34.022352000000005,-118.285117,female_male_ratio,0.52
+1460,57,King’s College London,United Kingdom,2013,51.511486,-0.115997,female_male_ratio,0.61
+1461,58,KU Leuven,Belgium,2013,50.878,4.7003,female_male_ratio,0.54
+1462,59,Seoul National University,South Korea,2013,37.4599,126.9519,female_male_ratio,0.0
+1463,59,École Normale Supérieure,France,2013,48.842206,2.345169,female_male_ratio,0.46
+1464,61,Pennsylvania State University,United States of America,2013,40.7982,-77.8599,female_male_ratio,0.46
+1465,62,University of Sydney,Australia,2013,-33.888584,151.187347,female_male_ratio,0.57
+1466,62,École Polytechnique,France,2013,48.714296999999995,2.211292,female_male_ratio,0.18
+1467,64,Leiden University,Netherlands,2013,52.1571,4.4852,female_male_ratio,0.59
+1468,65,Hong Kong University of Science and Technology,Hong Kong,2013,22.3364,114.26546599999999,female_male_ratio,0.0
+1469,65,The University of Queensland,Australia,2013,-27.495431,153.01203,female_male_ratio,0.53
+1470,67,Utrecht University,Netherlands,2013,52.0902,5.1226,female_male_ratio,0.59
+1471,68,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2013,36.369392,127.364025,female_male_ratio,0.2
+1472,69,Purdue University,United States of America,2013,40.4237,-86.9212,female_male_ratio,0.42
+1473,70,University of Göttingen,Germany,2013,51.540812,9.9374,female_male_ratio,0.51
+1474,70,Wageningen University and Research Center,Netherlands,2013,51.9846,5.6658,female_male_ratio,0.56
+1475,72,Erasmus University Rotterdam,Netherlands,2013,51.9175,4.5256,female_male_ratio,0.48
+1476,72,University of Massachusetts,United States of America,2013,42.391157,-72.526712,female_male_ratio,0.49
+1477,74,University of Bristol,United Kingdom,2013,51.458417,-2.602979,female_male_ratio,0.53
+1478,75,Rice University,United States of America,2013,29.717394,-95.401831,female_male_ratio,0.44
+1479,76,University of Pittsburgh,United States of America,2013,40.444353,-79.960835,female_male_ratio,0.51
+1480,77,Delft University of Technology,Netherlands,2013,52.0008,4.3714,female_male_ratio,0.26
+1481,78,Heidelberg University,Germany,2013,41.114304,-83.16640699999999,female_male_ratio,0.55
+1482,79,Emory University,United States of America,2013,33.792519,-84.323999,female_male_ratio,0.56
+1483,80,Durham University,United Kingdom,2013,54.764986,-1.578203,female_male_ratio,0.54
+1484,81,Pierre and Marie Curie University,France,2013,48.8471,2.3575,female_male_ratio,0.48
+1485,82,Lund University,Sweden,2013,55.711948,13.203493,female_male_ratio,0.0
+1486,83,University of Amsterdam,Netherlands,2013,52.3558,4.9557,female_male_ratio,0.53
+1487,84,University of Montreal,Canada,2013,45.5056,-73.6138,female_male_ratio,0.57
+1488,85,University of New South Wales,Australia,2013,-33.9173,151.2313,female_male_ratio,0.47
+1489,86,Nanyang Technological University,Singapore,2013,1.3483,103.6831,female_male_ratio,0.48
+1490,87,Tufts University,United States of America,2013,42.407484000000004,-71.119023,female_male_ratio,0.54
+1491,88,McMaster University,Canada,2013,43.260878999999996,-79.919225,female_male_ratio,0.53
+1492,89,University of Groningen,Netherlands,2013,53.2193,6.563,female_male_ratio,0.52
+1493,89,University of Zurich,Switzerland,2013,47.374322,8.550981,female_male_ratio,0.57
+1494,91,University of Colorado Boulder,United States of America,2013,40.007581,-105.265942,female_male_ratio,0.45
+1495,92,Paris-Sud University,France,2013,48.6977,2.1765,female_male_ratio,0.0
+1496,93,Ghent University,Belgium,2013,51.0466,3.7279,female_male_ratio,0.57
+1497,94,Michigan State University,United States of America,2013,42.7018,-84.4822,female_male_ratio,0.51
+1498,94,University of Notre Dame,United States of America,2013,41.705572,-86.235339,female_male_ratio,0.44
+1499,96,"University of California, Irvine",United States of America,2013,33.640495,-117.844296,female_male_ratio,0.52
+1500,97,"University of Maryland, College Park",United States of America,2013,38.986918,-76.942554,female_male_ratio,0.48
+1501,98,University of Arizona,United States of America,2013,32.231885,-110.95010900000001,female_male_ratio,0.52
+1502,99,Humboldt University of Berlin,Germany,2013,52.5179,13.3937,female_male_ratio,0.0
+1503,99,Monash University,Australia,2013,-37.876823,145.045837,female_male_ratio,0.56
+1504,99,"Rutgers, the State University of New Jersey",United States of America,2013,40.4982,-74.4468,female_male_ratio,0.51
+1505,1,California Institute of Technology,United States of America,2014,34.137658,-118.12526899999999,female_male_ratio,0.33
+1506,2,Harvard University,United States of America,2014,42.380098,-71.116629,female_male_ratio,0.0
+1507,2,University of Oxford,United Kingdom,2014,51.756634000000005,-1.254704,female_male_ratio,0.46
+1508,4,Stanford University,United States of America,2014,37.427475,-122.169719,female_male_ratio,0.42
+1509,5,Massachusetts Institute of Technology,United States of America,2014,42.360091,-71.09416,female_male_ratio,0.37
+1510,6,Princeton University,United States of America,2014,40.343989,-74.651448,female_male_ratio,0.45
+1511,7,University of Cambridge,United Kingdom,2014,52.204267,0.114908,female_male_ratio,0.46
+1512,8,"University of California, Berkeley",United States of America,2014,37.871899,-122.25854,female_male_ratio,0.5
+1513,9,University of Chicago,United States of America,2014,41.788608,-87.598713,female_male_ratio,0.42
+1514,10,Imperial College London,United Kingdom,2014,51.4988,-0.174877,female_male_ratio,0.37
+1515,11,Yale University,United States of America,2014,41.316324,-72.92234300000001,female_male_ratio,0.5
+1516,12,"University of California, Los Angeles",United States of America,2014,34.068921,-118.445181,female_male_ratio,0.52
+1517,13,Columbia University,United States of America,2014,40.807536,-73.96257299999999,female_male_ratio,0.0
+1518,14,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2014,47.376313,8.54767,female_male_ratio,0.31
+1519,15,Johns Hopkins University,United States of America,2014,39.329901,-76.620518,female_male_ratio,0.5
+1520,16,University of Pennsylvania,United States of America,2014,-75.193214,-75.193214,female_male_ratio,0.51
+1521,17,Duke University,United States of America,2014,36.001426,-78.938229,female_male_ratio,0.49
+1522,18,University of Michigan,United States of America,2014,42.278044,-83.738224,female_male_ratio,0.48
+1523,19,Cornell University,United States of America,2014,42.453449,-76.47350300000001,female_male_ratio,0.48
+1524,20,University of Toronto,Canada,2014,43.662892,-79.395656,female_male_ratio,0.0
+1525,21,University College London,United Kingdom,2014,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1526,22,Northwestern University,United States of America,2014,42.056459000000004,-87.675267,female_male_ratio,0.48
+1527,23,University of Tokyo,Japan,2014,35.712677,139.761989,female_male_ratio,0.0
+1528,24,Carnegie Mellon University,United States of America,2014,40.443466,-79.943457,female_male_ratio,0.39
+1529,25,University of Washington,United States of America,2014,47.655335,-122.30351999999999,female_male_ratio,0.53
+1530,26,National University of Singapore,Singapore,2014,1.296643,103.776394,female_male_ratio,0.49
+1531,27,University of Texas at Austin,United States of America,2014,30.2849,-97.7341,female_male_ratio,0.51
+1532,28,Georgia Institute of Technology,United States of America,2014,33.775618,-84.39628499999999,female_male_ratio,0.31
+1533,29,University of Illinois at Urbana-Champaign,United States of America,2014,40.101952000000004,-88.227161,female_male_ratio,0.47
+1534,30,University of Wisconsin-Madison,United States of America,2014,43.0766,-89.4125,female_male_ratio,0.51
+1535,31,University of British Columbia,Canada,2014,49.260605,-123.245994,female_male_ratio,0.54
+1536,32,London School of Economics and Political Science,United Kingdom,2014,51.514408,-0.117377,female_male_ratio,0.0
+1537,33,"University of California, Santa Barbara",United States of America,2014,34.413963,-119.848947,female_male_ratio,0.52
+1538,34,University of Melbourne,Australia,2014,-37.796369,144.961174,female_male_ratio,0.55
+1539,35,McGill University,Canada,2014,45.504785,-73.577151,female_male_ratio,0.56
+1540,36,Karolinska Institute,Sweden,2014,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1541,37,École Polytechnique Fédérale de Lausanne,Switzerland,2014,46.519056,6.566758,female_male_ratio,0.27
+1542,38,King’s College London,United Kingdom,2014,51.511486,-0.115997,female_male_ratio,0.61
+1543,39,University of Edinburgh,United Kingdom,2014,55.944516,-3.189241,female_male_ratio,0.58
+1544,40,New York University,United States of America,2014,40.729513,-73.996461,female_male_ratio,0.55
+1545,40,"University of California, San Diego",United States of America,2014,32.88006,-117.23401399999999,female_male_ratio,0.48
+1546,42,Washington University in St Louis,United States of America,2014,38.648789,-90.310796,female_male_ratio,0.0
+1547,43,University of Hong Kong,Hong Kong,2014,22.282999,114.13708500000001,female_male_ratio,0.53
+1548,44,Seoul National University,South Korea,2014,37.4599,126.9519,female_male_ratio,0.0
+1549,45,Peking University,China,2014,39.986913,116.305874,female_male_ratio,0.0
+1550,46,University of Minnesota,United States of America,2014,44.97399,-93.22772900000001,female_male_ratio,0.52
+1551,47,University of North Carolina at Chapel Hill,United States of America,2014,35.904912,-79.046913,female_male_ratio,0.58
+1552,48,Australian National University,Australia,2014,-35.2777,149.118527,female_male_ratio,0.52
+1553,49,Pennsylvania State University,United States of America,2014,40.7982,-77.8599,female_male_ratio,0.46
+1554,50,Boston University,United States of America,2014,42.3505,-71.105399,female_male_ratio,0.58
+1555,50,Tsinghua University,China,2014,39.999666999999995,116.326444,female_male_ratio,0.32
+1556,52,Brown University,United States of America,2014,41.826772,-71.402548,female_male_ratio,0.0
+1557,52,Kyoto University,Japan,2014,35.026244,135.780822,female_male_ratio,0.0
+1558,52,"University of California, Davis",United States of America,2014,38.538232,-121.76171200000002,female_male_ratio,0.54
+1559,55,LMU Munich,Germany,2014,48.150942,11.582443,female_male_ratio,0.62
+1560,56,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2014,36.369392,127.364025,female_male_ratio,0.2
+1561,57,Hong Kong University of Science and Technology,Hong Kong,2014,22.3364,114.26546599999999,female_male_ratio,0.0
+1562,58,University of Manchester,United Kingdom,2014,53.46685,-2.233884,female_male_ratio,0.52
+1563,59,Ohio State University,United States of America,2014,40.01419,-83.030914,female_male_ratio,0.49
+1564,60,Pohang University of Science and Technology,South Korea,2014,36.013886,129.323184,female_male_ratio,0.2
+1565,61,KU Leuven,Belgium,2014,50.878,4.7003,female_male_ratio,0.54
+1566,62,Purdue University,United States of America,2014,40.4237,-86.9212,female_male_ratio,0.42
+1567,63,The University of Queensland,Australia,2014,-27.495431,153.01203,female_male_ratio,0.53
+1568,63,University of Göttingen,Germany,2014,51.540812,9.9374,female_male_ratio,0.51
+1569,65,Rice University,United States of America,2014,29.717394,-95.401831,female_male_ratio,0.44
+1570,65,École Normale Supérieure,France,2014,48.842206,2.345169,female_male_ratio,0.46
+1571,67,Leiden University,Netherlands,2014,52.1571,4.4852,female_male_ratio,0.59
+1572,68,Heidelberg University,Germany,2014,41.114304,-83.16640699999999,female_male_ratio,0.55
+1573,69,Delft University of Technology,Netherlands,2014,52.0008,4.3714,female_male_ratio,0.26
+1574,70,University of Southern California,United States of America,2014,34.022352000000005,-118.285117,female_male_ratio,0.52
+1575,70,École Polytechnique,France,2014,48.714296999999995,2.211292,female_male_ratio,0.18
+1576,72,University of Sydney,Australia,2014,-33.888584,151.187347,female_male_ratio,0.57
+1577,73,Erasmus University Rotterdam,Netherlands,2014,51.9175,4.5256,female_male_ratio,0.48
+1578,74,University of Basel,Switzerland,2014,47.560253,7.5826,female_male_ratio,0.54
+1579,74,Utrecht University,Netherlands,2014,52.0902,5.1226,female_male_ratio,0.59
+1580,76,Nanyang Technological University,Singapore,2014,1.3483,103.6831,female_male_ratio,0.48
+1581,77,Wageningen University and Research Center,Netherlands,2014,51.9846,5.6658,female_male_ratio,0.56
+1582,78,University of Pittsburgh,United States of America,2014,40.444353,-79.960835,female_male_ratio,0.51
+1583,79,University of Bristol,United Kingdom,2014,51.458417,-2.602979,female_male_ratio,0.53
+1584,80,Durham University,United Kingdom,2014,54.764986,-1.578203,female_male_ratio,0.54
+1585,80,Emory University,United States of America,2014,33.792519,-84.323999,female_male_ratio,0.56
+1586,80,Tufts University,United States of America,2014,42.407484000000004,-71.119023,female_male_ratio,0.54
+1587,83,Michigan State University,United States of America,2014,42.7018,-84.4822,female_male_ratio,0.51
+1588,83,University of Amsterdam,Netherlands,2014,52.3558,4.9557,female_male_ratio,0.53
+1589,85,Ghent University,Belgium,2014,51.0466,3.7279,female_male_ratio,0.57
+1590,86,Free University of Berlin,Germany,2014,52.4525,13.2897,female_male_ratio,0.58
+1591,87,Technical University of Munich,Germany,2014,48.1497,11.5679,female_male_ratio,0.33
+1592,88,Case Western Reserve University,United States of America,2014,41.504341,-81.608384,female_male_ratio,0.48
+1593,88,Vanderbilt University,United States of America,2014,36.144703,-86.802655,female_male_ratio,0.52
+1594,90,University of Notre Dame,United States of America,2014,41.705572,-86.235339,female_male_ratio,0.44
+1595,91,Monash University,Australia,2014,-37.876823,145.045837,female_male_ratio,0.56
+1596,92,McMaster University,Canada,2014,43.260878999999996,-79.919225,female_male_ratio,0.53
+1597,93,"University of California, Irvine",United States of America,2014,33.640495,-117.844296,female_male_ratio,0.52
+1598,94,Humboldt University of Berlin,Germany,2014,52.5179,13.3937,female_male_ratio,0.0
+1599,95,University of Rochester,United States of America,2014,43.1306,-77.626,female_male_ratio,0.49
+1600,96,Pierre and Marie Curie University,France,2014,48.8471,2.3575,female_male_ratio,0.48
+1601,97,University of Colorado Boulder,United States of America,2014,40.007581,-105.265942,female_male_ratio,0.45
+1602,98,Maastricht University,Netherlands,2014,50.8471,5.6864,female_male_ratio,0.56
+1603,98,University of Groningen,Netherlands,2014,53.2193,6.563,female_male_ratio,0.52
+1604,100,University of Helsinki,Finland,2014,60.1726,24.951,female_male_ratio,0.66
+1605,100,University of York,United Kingdom,2014,53.945533,-1.056167,female_male_ratio,0.0
+1606,1,California Institute of Technology,United States of America,2015,34.137658,-118.12526899999999,female_male_ratio,0.33
+1607,2,Harvard University,United States of America,2015,42.380098,-71.116629,female_male_ratio,0.0
+1608,3,University of Oxford,United Kingdom,2015,51.756634000000005,-1.254704,female_male_ratio,0.46
+1609,4,Stanford University,United States of America,2015,37.427475,-122.169719,female_male_ratio,0.42
+1610,5,University of Cambridge,United Kingdom,2015,52.204267,0.114908,female_male_ratio,0.46
+1611,6,Massachusetts Institute of Technology,United States of America,2015,42.360091,-71.09416,female_male_ratio,0.37
+1612,7,Princeton University,United States of America,2015,40.343989,-74.651448,female_male_ratio,0.45
+1613,8,"University of California, Berkeley",United States of America,2015,37.871899,-122.25854,female_male_ratio,0.5
+1614,9,Imperial College London,United Kingdom,2015,51.4988,-0.174877,female_male_ratio,0.37
+1615,9,Yale University,United States of America,2015,41.316324,-72.92234300000001,female_male_ratio,0.5
+1616,11,University of Chicago,United States of America,2015,41.788608,-87.598713,female_male_ratio,0.42
+1617,12,"University of California, Los Angeles",United States of America,2015,34.068921,-118.445181,female_male_ratio,0.52
+1618,13,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2015,47.376313,8.54767,female_male_ratio,0.31
+1619,14,Columbia University,United States of America,2015,40.807536,-73.96257299999999,female_male_ratio,0.0
+1620,15,Johns Hopkins University,United States of America,2015,39.329901,-76.620518,female_male_ratio,0.5
+1621,16,University of Pennsylvania,United States of America,2015,-75.193214,-75.193214,female_male_ratio,0.51
+1622,17,University of Michigan,United States of America,2015,42.278044,-83.738224,female_male_ratio,0.48
+1623,18,Duke University,United States of America,2015,36.001426,-78.938229,female_male_ratio,0.49
+1624,19,Cornell University,United States of America,2015,42.453449,-76.47350300000001,female_male_ratio,0.48
+1625,20,University of Toronto,Canada,2015,43.662892,-79.395656,female_male_ratio,0.0
+1626,21,Northwestern University,United States of America,2015,42.056459000000004,-87.675267,female_male_ratio,0.48
+1627,22,University College London,United Kingdom,2015,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1628,23,University of Tokyo,Japan,2015,35.712677,139.761989,female_male_ratio,0.0
+1629,24,Carnegie Mellon University,United States of America,2015,40.443466,-79.943457,female_male_ratio,0.39
+1630,25,National University of Singapore,Singapore,2015,1.296643,103.776394,female_male_ratio,0.49
+1631,26,University of Washington,United States of America,2015,47.655335,-122.30351999999999,female_male_ratio,0.53
+1632,27,Georgia Institute of Technology,United States of America,2015,33.775618,-84.39628499999999,female_male_ratio,0.31
+1633,28,University of Texas at Austin,United States of America,2015,30.2849,-97.7341,female_male_ratio,0.51
+1634,29,LMU Munich,Germany,2015,48.150942,11.582443,female_male_ratio,0.62
+1635,29,University of Illinois at Urbana-Champaign,United States of America,2015,40.101952000000004,-88.227161,female_male_ratio,0.47
+1636,29,University of Wisconsin-Madison,United States of America,2015,43.0766,-89.4125,female_male_ratio,0.51
+1637,32,University of British Columbia,Canada,2015,49.260605,-123.245994,female_male_ratio,0.54
+1638,33,University of Melbourne,Australia,2015,-37.796369,144.961174,female_male_ratio,0.55
+1639,34,London School of Economics and Political Science,United Kingdom,2015,51.514408,-0.117377,female_male_ratio,0.0
+1640,34,École Polytechnique Fédérale de Lausanne,Switzerland,2015,46.519056,6.566758,female_male_ratio,0.27
+1641,36,University of Edinburgh,United Kingdom,2015,55.944516,-3.189241,female_male_ratio,0.58
+1642,37,"University of California, Santa Barbara",United States of America,2015,34.413963,-119.848947,female_male_ratio,0.52
+1643,38,New York University,United States of America,2015,40.729513,-73.996461,female_male_ratio,0.55
+1644,39,McGill University,Canada,2015,45.504785,-73.577151,female_male_ratio,0.56
+1645,40,King’s College London,United Kingdom,2015,51.511486,-0.115997,female_male_ratio,0.61
+1646,41,"University of California, San Diego",United States of America,2015,32.88006,-117.23401399999999,female_male_ratio,0.48
+1647,42,Washington University in St Louis,United States of America,2015,38.648789,-90.310796,female_male_ratio,0.0
+1648,43,University of Hong Kong,Hong Kong,2015,22.282999,114.13708500000001,female_male_ratio,0.53
+1649,44,Karolinska Institute,Sweden,2015,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1650,45,Australian National University,Australia,2015,-35.2777,149.118527,female_male_ratio,0.52
+1651,46,University of Minnesota,United States of America,2015,44.97399,-93.22772900000001,female_male_ratio,0.52
+1652,46,University of North Carolina at Chapel Hill,United States of America,2015,35.904912,-79.046913,female_male_ratio,0.58
+1653,48,Peking University,China,2015,39.986913,116.305874,female_male_ratio,0.0
+1654,49,Tsinghua University,China,2015,39.999666999999995,116.326444,female_male_ratio,0.32
+1655,50,Seoul National University,South Korea,2015,37.4599,126.9519,female_male_ratio,0.0
+1656,51,Hong Kong University of Science and Technology,Hong Kong,2015,22.3364,114.26546599999999,female_male_ratio,0.0
+1657,52,Korea Advanced Institute of Science and Technology (KAIST),South Korea,2015,36.369392,127.364025,female_male_ratio,0.2
+1658,52,University of Manchester,United Kingdom,2015,53.46685,-2.233884,female_male_ratio,0.52
+1659,54,Brown University,United States of America,2015,41.826772,-71.402548,female_male_ratio,0.0
+1660,55,KU Leuven,Belgium,2015,50.878,4.7003,female_male_ratio,0.54
+1661,55,"University of California, Davis",United States of America,2015,38.538232,-121.76171200000002,female_male_ratio,0.54
+1662,57,Boston University,United States of America,2015,42.3505,-71.105399,female_male_ratio,0.58
+1663,58,Pennsylvania State University,United States of America,2015,40.7982,-77.8599,female_male_ratio,0.46
+1664,59,Kyoto University,Japan,2015,35.026244,135.780822,female_male_ratio,0.0
+1665,60,University of Sydney,Australia,2015,-33.888584,151.187347,female_male_ratio,0.57
+1666,61,Nanyang Technological University,Singapore,2015,1.3483,103.6831,female_male_ratio,0.48
+1667,61,École Polytechnique,France,2015,48.714296999999995,2.211292,female_male_ratio,0.18
+1668,63,Scuola Normale Superiore di Pisa,Italy,2015,43.7196,10.4003,female_male_ratio,0.28
+1669,64,Leiden University,Netherlands,2015,52.1571,4.4852,female_male_ratio,0.59
+1670,65,The University of Queensland,Australia,2015,-27.495431,153.01203,female_male_ratio,0.53
+1671,66,Pohang University of Science and Technology,South Korea,2015,36.013886,129.323184,female_male_ratio,0.2
+1672,67,University of Göttingen,Germany,2015,51.540812,9.9374,female_male_ratio,0.51
+1673,68,Ohio State University,United States of America,2015,40.01419,-83.030914,female_male_ratio,0.49
+1674,69,Rice University,United States of America,2015,29.717394,-95.401831,female_male_ratio,0.44
+1675,70,Heidelberg University,Germany,2015,41.114304,-83.16640699999999,female_male_ratio,0.55
+1676,71,Delft University of Technology,Netherlands,2015,52.0008,4.3714,female_male_ratio,0.26
+1677,72,Erasmus University Rotterdam,Netherlands,2015,51.9175,4.5256,female_male_ratio,0.48
+1678,73,Wageningen University and Research Center,Netherlands,2015,51.9846,5.6658,female_male_ratio,0.56
+1679,74,University of Bristol,United Kingdom,2015,51.458417,-2.602979,female_male_ratio,0.53
+1680,75,University of Basel,Switzerland,2015,47.560253,7.5826,female_male_ratio,0.54
+1681,75,University of Southern California,United States of America,2015,34.022352000000005,-118.285117,female_male_ratio,0.52
+1682,77,University of Amsterdam,Netherlands,2015,52.3558,4.9557,female_male_ratio,0.53
+1683,78,École Normale Supérieure,France,2015,48.842206,2.345169,female_male_ratio,0.46
+1684,79,Utrecht University,Netherlands,2015,52.0902,5.1226,female_male_ratio,0.59
+1685,80,Humboldt University of Berlin,Germany,2015,52.5179,13.3937,female_male_ratio,0.0
+1686,81,Free University of Berlin,Germany,2015,52.4525,13.2897,female_male_ratio,0.58
+1687,82,Michigan State University,United States of America,2015,42.7018,-84.4822,female_male_ratio,0.51
+1688,83,Durham University,United Kingdom,2015,54.764986,-1.578203,female_male_ratio,0.54
+1689,83,Monash University,Australia,2015,-37.876823,145.045837,female_male_ratio,0.56
+1690,85,Middle East Technical University,Turkey,2015,39.8921,32.7786,female_male_ratio,0.44
+1691,86,University of Arizona,United States of America,2015,32.231885,-110.95010900000001,female_male_ratio,0.52
+1692,86,University of Notre Dame,United States of America,2015,41.705572,-86.235339,female_male_ratio,0.44
+1693,88,Tufts University,United States of America,2015,42.407484000000004,-71.119023,female_male_ratio,0.54
+1694,88,"University of California, Irvine",United States of America,2015,33.640495,-117.844296,female_male_ratio,0.52
+1695,90,Ghent University,Belgium,2015,51.0466,3.7279,female_male_ratio,0.57
+1696,91,University of Massachusetts,United States of America,2015,42.391157,-72.526712,female_male_ratio,0.49
+1697,91,University of Pittsburgh,United States of America,2015,40.444353,-79.960835,female_male_ratio,0.51
+1698,93,Emory University,United States of America,2015,33.792519,-84.323999,female_male_ratio,0.56
+1699,94,McMaster University,Canada,2015,43.260878999999996,-79.919225,female_male_ratio,0.53
+1700,94,University of Glasgow,United Kingdom,2015,55.8721,-4.2882,female_male_ratio,0.57
+1701,96,Vanderbilt University,United States of America,2015,36.144703,-86.802655,female_male_ratio,0.52
+1702,97,University of Colorado Boulder,United States of America,2015,40.007581,-105.265942,female_male_ratio,0.45
+1703,98,Stockholm University,Sweden,2015,59.3628,18.0593,female_male_ratio,0.62
+1704,98,Technical University of Munich,Germany,2015,48.1497,11.5679,female_male_ratio,0.33
+1705,98,Uppsala University,Sweden,2015,59.8509,17.63,female_male_ratio,0.57
+1706,1,California Institute of Technology,United States of America,2016,34.137658,-118.12526899999999,female_male_ratio,0.33
+1707,2,University of Oxford,United Kingdom,2016,51.756634000000005,-1.254704,female_male_ratio,0.46
+1708,3,Stanford University,United States of America,2016,37.427475,-122.169719,female_male_ratio,0.42
+1709,4,University of Cambridge,United Kingdom,2016,52.204267,0.114908,female_male_ratio,0.46
+1710,5,Massachusetts Institute of Technology,United States of America,2016,42.360091,-71.09416,female_male_ratio,0.37
+1711,6,Harvard University,United States of America,2016,42.380098,-71.116629,female_male_ratio,0.0
+1712,7,Princeton University,United States of America,2016,40.343989,-74.651448,female_male_ratio,0.45
+1713,8,Imperial College London,United Kingdom,2016,51.4988,-0.174877,female_male_ratio,0.37
+1714,9,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,2016,47.376313,8.54767,female_male_ratio,0.31
+1715,10,University of Chicago,United States of America,2016,41.788608,-87.598713,female_male_ratio,0.42
+1716,11,Johns Hopkins University,United States of America,2016,39.329901,-76.620518,female_male_ratio,0.5
+1717,12,Yale University,United States of America,2016,41.316324,-72.92234300000001,female_male_ratio,0.5
+1718,13,"University of California, Berkeley",United States of America,2016,37.871899,-122.25854,female_male_ratio,0.5
+1719,14,University College London,United Kingdom,2016,51.524559,-0.13404000000000002,female_male_ratio,0.56
+1720,15,Columbia University,United States of America,2016,40.807536,-73.96257299999999,female_male_ratio,0.0
+1721,16,"University of California, Los Angeles",United States of America,2016,34.068921,-118.445181,female_male_ratio,0.52
+1722,17,University of Pennsylvania,United States of America,2016,-75.193214,-75.193214,female_male_ratio,0.51
+1723,18,Cornell University,United States of America,2016,42.453449,-76.47350300000001,female_male_ratio,0.48
+1724,19,University of Toronto,Canada,2016,43.662892,-79.395656,female_male_ratio,0.0
+1725,20,Duke University,United States of America,2016,36.001426,-78.938229,female_male_ratio,0.49
+1726,21,University of Michigan,United States of America,2016,42.278044,-83.738224,female_male_ratio,0.48
+1727,22,Carnegie Mellon University,United States of America,2016,40.443466,-79.943457,female_male_ratio,0.39
+1728,23,London School of Economics and Political Science,United Kingdom,2016,51.514408,-0.117377,female_male_ratio,0.0
+1729,24,University of Edinburgh,United Kingdom,2016,55.944516,-3.189241,female_male_ratio,0.58
+1730,25,Northwestern University,United States of America,2016,42.056459000000004,-87.675267,female_male_ratio,0.48
+1731,26,National University of Singapore,Singapore,2016,1.296643,103.776394,female_male_ratio,0.49
+1732,27,King’s College London,United Kingdom,2016,51.511486,-0.115997,female_male_ratio,0.61
+1733,28,Karolinska Institute,Sweden,2016,59.348147999999995,18.023657999999998,female_male_ratio,0.7
+1734,29,LMU Munich,Germany,2016,48.150942,11.582443,female_male_ratio,0.62
+1735,30,New York University,United States of America,2016,40.729513,-73.996461,female_male_ratio,0.55
+1736,31,École Polytechnique Fédérale de Lausanne,Switzerland,2016,46.519056,6.566758,female_male_ratio,0.27
+1737,32,University of Washington,United States of America,2016,47.655335,-122.30351999999999,female_male_ratio,0.53
+1738,33,University of Melbourne,Australia,2016,-37.796369,144.961174,female_male_ratio,0.55
+1739,34,University of British Columbia,Canada,2016,49.260605,-123.245994,female_male_ratio,0.54
+1740,35,KU Leuven,Belgium,2016,50.878,4.7003,female_male_ratio,0.54
+1741,36,University of Illinois at Urbana-Champaign,United States of America,2016,40.101952000000004,-88.227161,female_male_ratio,0.47
+1742,37,Heidelberg University,Germany,2016,41.114304,-83.16640699999999,female_male_ratio,0.55
+1743,38,McGill University,Canada,2016,45.504785,-73.577151,female_male_ratio,0.56
+1744,39,"University of California, San Diego",United States of America,2016,32.88006,-117.23401399999999,female_male_ratio,0.48
+1745,39,"University of California, Santa Barbara",United States of America,2016,34.413963,-119.848947,female_male_ratio,0.52
+1746,41,Georgia Institute of Technology,United States of America,2016,33.775618,-84.39628499999999,female_male_ratio,0.31
+1747,42,Peking University,China,2016,39.986913,116.305874,female_male_ratio,0.0
+1748,43,University of Tokyo,Japan,2016,35.712677,139.761989,female_male_ratio,0.0
+1749,44,"University of California, Davis",United States of America,2016,38.538232,-121.76171200000002,female_male_ratio,0.54
+1750,44,University of Hong Kong,Hong Kong,2016,22.282999,114.13708500000001,female_male_ratio,0.53
+1751,46,University of Texas at Austin,United States of America,2016,30.2849,-97.7341,female_male_ratio,0.51
+1752,47,Tsinghua University,China,2016,39.999666999999995,116.326444,female_male_ratio,0.32
+1753,47,Wageningen University and Research Center,Netherlands,2016,51.9846,5.6658,female_male_ratio,0.56
+1754,49,Humboldt University of Berlin,Germany,2016,52.5179,13.3937,female_male_ratio,0.0
+1755,50,University of Wisconsin-Madison,United States of America,2016,43.0766,-89.4125,female_male_ratio,0.51
+1756,51,Brown University,United States of America,2016,41.826772,-71.402548,female_male_ratio,0.0
+1757,52,Australian National University,Australia,2016,-35.2777,149.118527,female_male_ratio,0.52
+1758,53,Technical University of Munich,Germany,2016,48.1497,11.5679,female_male_ratio,0.33
+1759,54,École Normale Supérieure,France,2016,48.842206,2.345169,female_male_ratio,0.46
+1760,55,Nanyang Technological University,Singapore,2016,1.3483,103.6831,female_male_ratio,0.48
+1761,56,University of Manchester,United Kingdom,2016,53.46685,-2.233884,female_male_ratio,0.52
+1762,56,University of Sydney,Australia,2016,-33.888584,151.187347,female_male_ratio,0.57
+1763,58,University of Amsterdam,Netherlands,2016,52.3558,4.9557,female_male_ratio,0.53
+1764,59,Hong Kong University of Science and Technology,Hong Kong,2016,22.3364,114.26546599999999,female_male_ratio,0.0
+1765,60,The University of Queensland,Australia,2016,-27.495431,153.01203,female_male_ratio,0.53
+1766,60,Washington University in St Louis,United States of America,2016,38.648789,-90.310796,female_male_ratio,0.0
+1767,62,Utrecht University,Netherlands,2016,52.0902,5.1226,female_male_ratio,0.59
+1768,63,University of North Carolina at Chapel Hill,United States of America,2016,35.904912,-79.046913,female_male_ratio,0.58
+1769,64,Boston University,United States of America,2016,42.3505,-71.105399,female_male_ratio,0.58
+1770,65,Delft University of Technology,Netherlands,2016,52.0008,4.3714,female_male_ratio,0.26
+1771,65,University of Minnesota,United States of America,2016,44.97399,-93.22772900000001,female_male_ratio,0.52
+1772,67,Leiden University,Netherlands,2016,52.1571,4.4852,female_male_ratio,0.59
+1773,68,University of Southern California,United States of America,2016,34.022352000000005,-118.285117,female_male_ratio,0.52
+1774,69,University of Bristol,United Kingdom,2016,51.458417,-2.602979,female_male_ratio,0.53
+1775,70,Durham University,United Kingdom,2016,54.764986,-1.578203,female_male_ratio,0.54
+1776,71,Erasmus University Rotterdam,Netherlands,2016,51.9175,4.5256,female_male_ratio,0.48
+1777,72,Free University of Berlin,Germany,2016,52.4525,13.2897,female_male_ratio,0.58
+1778,73,Monash University,Australia,2016,-37.876823,145.045837,female_male_ratio,0.56
+1779,74,University of Groningen,Netherlands,2016,53.2193,6.563,female_male_ratio,0.52
+1780,75,Pennsylvania State University,United States of America,2016,40.7982,-77.8599,female_male_ratio,0.46
+1781,76,University of Glasgow,United Kingdom,2016,55.8721,-4.2882,female_male_ratio,0.57
+1782,76,University of Helsinki,Finland,2016,60.1726,24.951,female_male_ratio,0.66
+1783,78,University of Tübingen,Germany,2016,48.5295,9.0438,female_male_ratio,0.58
+1784,79,University of Pittsburgh,United States of America,2016,40.444353,-79.960835,female_male_ratio,0.51
+1785,80,University of Warwick,United Kingdom,2016,52.3793,-1.5615,female_male_ratio,0.48
+1786,81,Uppsala University,Sweden,2016,59.8509,17.63,female_male_ratio,0.57
+1787,82,University of Copenhagen,Denmark,2016,55.6802,12.5724,female_male_ratio,0.67
+1788,82,University of New South Wales,Australia,2016,-33.9173,151.2313,female_male_ratio,0.47
+1789,84,University of Freiburg,Germany,2016,47.9935,7.8459,female_male_ratio,0.52
+1790,85,Seoul National University,South Korea,2016,37.4599,126.9519,female_male_ratio,0.0
+1791,86,University of St Andrews,United Kingdom,2016,56.3417,-2.7928,female_male_ratio,0.56
+1792,87,Vanderbilt University,United States of America,2016,36.144703,-86.802655,female_male_ratio,0.52
+1793,88,Kyoto University,Japan,2016,35.026244,135.780822,female_male_ratio,0.0
+1794,88,Maastricht University,Netherlands,2016,50.8471,5.6864,female_male_ratio,0.56
+1795,90,Emory University,United States of America,2016,33.792519,-84.323999,female_male_ratio,0.56
+1796,90,Lund University,Sweden,2016,55.711948,13.203493,female_male_ratio,0.0
+1797,90,Ohio State University,United States of America,2016,40.01419,-83.030914,female_male_ratio,0.49
+1798,93,University of Exeter,United Kingdom,2016,50.7371,-3.5351,female_male_ratio,0.54
+1799,94,Georgetown University,United States of America,2016,38.9076,-77.0723,female_male_ratio,0.53
+1800,94,McMaster University,Canada,2016,43.260878999999996,-79.919225,female_male_ratio,0.53
+1801,94,University of Bonn,Germany,2016,50.7268,7.0865,female_male_ratio,0.55
+1802,97,University of Sheffield,United Kingdom,2016,53.3809,-1.4879,female_male_ratio,0.5
+1803,98,Queen Mary University of London,United Kingdom,2016,51.5241,-0.0404,female_male_ratio,0.52
+1804,99,Michigan State University,United States of America,2016,42.7018,-84.4822,female_male_ratio,0.51
+1805,99,University of Göttingen,Germany,2016,51.540812,9.9374,female_male_ratio,0.51
