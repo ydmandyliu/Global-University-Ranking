@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>University Ranking</title>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Raleway:200,200i,400,400i,700,700i');
+    </style>
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="bower_components/jquery-ui/themes/ui-lightness/jquery-ui.min.css">
+    <script src="bower_components/jquery-ui/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
+    <script type="text/javascript" src="bower_components/d3-tip/d3.tip.min.js"></script>
+    <script type="text/javascript" src="bower_components/crossfilter/crossfilter.min.js"></script>
+
+    <script type="text/javascript" src="bower_components/dcjs/dc.js"></script>
+    <link rel="stylesheet" href="bower_components/dcjs/dc.min.css" />
+
+    <script type="text/javascript" src="bower_components/leaflet/dist/leaflet-src.js"></script>
+    <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css" />
+
+    <script src="bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+
+    <script src="bower_components/dc-addons/dist/leaflet-map/dc-leaflet.js"></script>
+
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/leaflet.zoomhome/dist/leaflet.zoomhome.css"/>
+    <script src="bower_components/leaflet.zoomhome/dist/leaflet.zoomhome.js"></script>
+
+    <script src="lib/Leaflet.Graticule/L.Graticule.js"></script>
+
+    <script src="lib/Leaflet.MousePosition/L.Control.MousePosition.js"></script>
+    <link rel="stylesheet" href="lib/Leaflet.MousePosition/L.Control.MousePosition.css" />
+
+    <script src="bower_components/leaflet-minimap/dist/Control.MiniMap.min.js"></script>
+    <link rel="stylesheet" href="bower_components/leaflet-minimap/dist/Control.MiniMap.min.css" />
+
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <script src="bower_components/jquery.redirect/jquery.redirect.js"></script>
+
+    <script src="myCode.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="non-responsive.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<div id="wrap">
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" style="height: 310px;">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">World University Quality Report</a>
+            </div>
+			     <div class="row">
+            <div id="chart-map" class="dc-chart col-xs-11" style="height: 250px; width: 1200px"></div>
+        </div>
+        </div>
+    </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <!-- Begin page content -->
+    <div class="container">
+
+        <div class="row">
+			<div class="dc-chart col-xs-4" id="chart-year" style="width: 250px;">
+                <div class="dc-chart-title">Year Distribution</div>
+                <a class="reset" href="javascript:yearChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+            <div class="dc-chart col-xs-4" id="chart-country" style="width: 370px;">
+                <div class="dc-chart-title">Country Distribution</div>
+                <a class="reset" href="javascript:countryChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+            <div class="dc-chart col-xs-4" id="chart-ranking" style="width: 580px;">
+                <div class="dc-chart-title">Ranking Distribution</div>
+                <a class="reset" href="javascript:rankingChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <a class="preset" href="javascript:rankingChart.filterAll();rankingChart.filter(dc.filters.RangedFilter(1, 20));dc.redrawAll();">1:20</a>
+                <a class="preset" href="javascript:rankingChart.filterAll();rankingChart.filter(dc.filters.RangedFilter(21, 50));dc.redrawAll();">21:50</a>
+                <a class="preset" href="javascript:rankingChart.filterAll();rankingChart.filter(dc.filters.RangedFilter(51, 100));dc.redrawAll();">51:100</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+        </div>
+		<div class='row'>
+            <a id="resetNewTableLink" class="reset" href="javascript:resetNewTable();" style="display: none;">reset</a>
+            <br>
+            <table class='span12 table table-hover' id='chart-table-new' style="width: 1200px;">
+                <thead>
+                <tr class='header'>
+                    <th class="th_id">Index</th>
+                    <th class="th_wr">World Rank</th>
+                    <th class="th_un">University Name</th>
+                    <th class="th_co">Country</th>
+                    <th class="th_yr">Year</th>
+                    <th class="th_te">Teaching Score</th>
+                    <th class="th_re">Research Score</th>
+                    <th class="th_ct">Citations Score</th>
+                    <th class="th_ts">Total Score</th>
+                </tr>
+                </thead>
+            </table>
+        </div>
+        <br>
+        <div class="row">
+            <div class="dc-chart col-xs-3" id="chart-teaching">
+                <div class="dc-chart-title">Teaching Distribution</div>
+                    <a class="reset" href="javascript:teachingChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+            <div class="dc-chart col-xs-3" id="chart-research">
+                <div class="dc-chart-title">Research Distribution</div>
+                <a class="reset" href="javascript:researchChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+            <div class="dc-chart col-xs-3" id="chart-citation">
+                <div class="dc-chart-title">Citation Distribution</div>
+                <a class="reset" href="javascript:citationChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+            <div class="dc-chart col-xs-3" id="chart-total">
+                <div class="dc-chart-title">Total Score Distribution</div>
+                <a class="reset" href="javascript:totalChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+                <span class="reset" style="display: none;"><span class="filter"></span></span>
+                <br>
+            </div>
+		</div>
+
+        <div class="row">
+            <div class='dc-data-count' id='chart-count-new'>
+                <span class='filter-count'></span>selected out of <span class='total-count'></span> records.
+            </div>
+        </div>
+        <br>
+
+    </div><!-- /.container -->
+
+</div>
+</body>
+</html>

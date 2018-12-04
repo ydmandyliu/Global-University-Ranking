@@ -1,0 +1,200 @@
+
+
+body {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+#charts {
+  padding: 0 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 0px;
+}
+
+.navbar.navbar-default.navbar-fixed-top {
+  background-color: #333;
+  border-bottom: 1px solid #222;
+}
+
+.disabled {
+  opacity: 0.2;
+  pointer-events: none;
+  cursor: default;
+}
+
+.chart {
+  display: inline-block;
+  margin: 0 20px 20px;
+}
+
+.reset {
+  padding-left: 1em;
+  font-size: smaller;
+  color: white;
+}
+
+.preset {
+  padding-left: 1em;
+  font-size: smaller;
+  color: white;
+}
+
+.background.bar {
+  fill: #ccc;
+}
+
+.dc-chart g.row text {
+  fill: white;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #333;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 10px sans-serif;
+  fill: #888;
+  color: white;
+}
+
+.x-axis-label,.y-axis-label {
+  font: 10px sans-serif;
+  fill: #888;
+}
+
+.dc-chart-title {
+  color: #ccc;
+  font-weight: lighter;
+  font-style: italic;
+  position:relative;
+  font-size: 25px;
+}
+
+.filter {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  text-align: left;
+}
+
+.imghelp {
+  border-radius: 10px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.symbol {
+  opacity: 0.5;
+}
+
+.dc-data-count {
+  color: #888;
+}
+
+#chart-table-new {
+  margin-bottom: 0px;
+}
+
+#chart-table-new table {
+  table-layout: fixed;
+}
+
+#chart-table-new tbody {
+  display: block;
+  height: 280px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#chart-table-new>thead>tr>th, #chart-table>tbody>tr>td {
+  float: left;
+  line-height: 1em;
+  border: 20px;
+  padding: 0x;
+}
+
+#chart-table-new>thead>tr>th {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.dc-chart {
+  padding: 0px;
+}
+
+#chart-table-new .th_id, #chart-table-new .dc-table-column._0 {width: 70px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_wr, #chart-table-new .dc-table-column._1 {width: 100px;  text-align: center;padding-right:5px;}
+#chart-table-new .th_un, #chart-table-new .dc-table-column._2 {width: 260px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_co, #chart-table-new .dc-table-column._3 {width: 200px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_yr, #chart-table-new .dc-table-column._4 {width: 70px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_te, #chart-table-new .dc-table-column._5 {width: 125px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_re, #chart-table-new .dc-table-column._6 {width: 125px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_ct, #chart-table-new .dc-table-column._7 {width: 125px;  text-align: center; padding-right: 5px;}
+#chart-table-new .th_ts, #chart-table-new .dc-table-column._8 {width: 125px;  text-align: center; padding-right: 5px;}
+
+#chart-table-new td {
+  cursor: pointer;
+  color: #eee;
+  font-size: 13px;
+  border: 0px;
+}
+
+#chart-table-new thead tr {
+  background-color: #444;
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+  padding: 5px;
+}
+
+#chart-table-new tbody tr {
+  background-color: #333;
+  border-top: 1px solid #222;
+  font-weight: normal;
+}
+
+#chart-table-new tr:hover {
+  background: #555;
+}
+
+#chart-table-new tr:hover td {
+  font-weight: bold;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(44, 44, 44, 0.85);
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px black;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(44, 44, 44, 0.85);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
